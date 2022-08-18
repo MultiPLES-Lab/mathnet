@@ -1,0 +1,340 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+
+a:link, a:visited {
+  color: #2774ae;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #003b5c;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/* a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+} */
+
+
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-top: 3rem;
+  /* padding-bottom: 3rem; */
+  color: #5a5a5a;
+}
+
+h1.text-shadow {
+  text-shadow: 2px 2px 8px #000000;
+}
+p.text-shadow {
+  text-shadow: 2px 2px 8px #000000;
+}
+img.dark {
+  filter: brightness(80%) opacity(80%);
+}
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 4rem;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  bottom: 3rem;
+  /* z-index: 10; */
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 32rem;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+/* rtl:begin:ignore */
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+/* rtl:end:ignore */
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  /* rtl:remove */
+  letter-spacing: -.05rem;
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+
+.research-tab {
+  margin: 0;
+  position: -webkit-sticky;
+  position: sticky;
+  /* font-size: 1.5vw; */
+  top: 100px;
+  width: 100%;
+  background: #fff;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  /* box-shadow: 0 0 5px #000; */
+}
+
+.people-avatar {
+  height: 250px;
+  width: 250px;
+  object-fit: cover;
+  box-shadow: 0 0 15px #a7a7a7;
+}
+
+.research-avatar {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  box-shadow: 0 0 10px #a7a7a7;
+}
+
+.card-body-research {
+  width: 100%;
+  height: 90px;
+}
+
+.research-tab-link:link,.research-tab-link:visited  {
+  color: #666666;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.research-tab-link:hover,.research-tab-link:active {
+  color: #000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+.research-card-link:link,.research-card-link:visited  {
+  color: #000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.research-card-link:hover,.research-card-link:active {
+  color: #000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+/* .stretched-link {
+  color: #000;
+} */
+
+.blog-title {
+  text-align: center;
+  font-size: 40pt;
+  /* font-family: 'Linux Libertine'; */
+}
+
+
+.blog-body {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  /* font-size: 1.1rem; */
+  /* margin-left: 2rem; */
+  /* font-family: "Linux Libertine" */
+}
+
+.blog-body p{
+  font-size: 1.2rem;
+  /* margin-left: 2rem; */
+  /* font-family: "Linux Libertine" */
+}
+
+.blog-body img{
+  margin: auto;
+  max-width: 100vw;
+  display: block;
+  margin-bottom: 20pt;
+  margin-top: 20pt;
+}
+
+.blog-body .publication-card-blog {
+  margin-top: 30pt;
+  /* margin-bottom: 30pt; */
+}
+
+.blog-body .publication-card-blog img {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.blog-body .publication-card-blog p {
+  font-size: 12pt;
+}
+
+.blog-body .publication-card-blog h5 {
+  font-size: 17pt;
+}
+
+
+:target::before {
+  content: "";
+  display: block;
+  height: 95px; /* fixed header height*/
+}
+
+.footer-container p{
+  margin:0;
+}
+
+/* Banner */
+.overlap img {
+  object-fit:contain;
+  filter: brightness(80%);
+  position: absolute;
+  top: 0;
+}
+
+.footer-container a:hover img{
+  /* filter: brightness(200%);
+   */
+   /* background-color: #e0e0e0; */
+}
+
+.rounded-circle {
+  border-radius: 50% 50%;
+}
+
+.publication-preview {
+  height: 100px;
+  width: 100px;
+  box-shadow: 0 0 10px #a7a7a7;
+  object-fit: cover;
+}
+
+@media (max-width: 768px) { /* for mobile device */
+  .publication-preview {
+    height: 200px;
+    width: 200px;
+    box-shadow: 0 0 10px #a7a7a7;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+}
+
+
+.slick-prev:before {
+  color: #c4c4c4 !important;
+}
+.slick-next:before {
+  color: #c4c4c4 !important;
+}
+
+/* publication filer */
+input {
+  border:solid 1px #ccc;
+  border-radius: 5px;
+  padding:7px 14px;
+  margin-bottom:10px
+}
+input:focus {
+  outline:none;
+  border-color:#aaa;
+}
+
+.filtered-ul {
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+.filtered-ul li {
+  display:block;
+}
+
+
+
+
+/* FONTS */
+@font-face {
+  font-family: 'Linux Libertine'; /* normal */
+  src: url('/static/fonts/linux-libertine/LinLibertine_R.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Linux Libertine'; /* italic */
+  src: url('/static/fonts/linux-libertine/LinLibertine_RI.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Linux Libertine'; /* bold */
+  src: url('/static/fonts/linux-libertine/LinLibertine_RB.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Linux Libertine'; /* bold */
+  src: url('/static/fonts/linux-libertine/LinLibertine_RBI.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
