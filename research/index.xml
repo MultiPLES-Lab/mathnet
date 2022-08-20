@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Multi-Physics Lagrangian-Eulerian Simulation Lab</title>
-    <link>https://www.math.ucla.edu/~multiples/research/</link>
+    <link>http://multiples-lab.github.io/research/</link>
     <description>Recent content in Research on Multi-Physics Lagrangian-Eulerian Simulation Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://www.math.ucla.edu/~multiples/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://multiples-lab.github.io/research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

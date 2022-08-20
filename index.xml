@@ -2,379 +2,379 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multi-Physics Lagrangian-Eulerian Simulation Lab</title>
-    <link>https://www.math.ucla.edu/~multiples/</link>
+    <link>http://multiples-lab.github.io/</link>
     <description>Recent content on Multi-Physics Lagrangian-Eulerian Simulation Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.math.ucla.edu/~multiples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://multiples-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tianyi Xie</title>
-      <link>https://www.math.ucla.edu/~multiples/people/current/tianyi/</link>
+      <link>http://multiples-lab.github.io/people/current/tianyi/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/people/current/tianyi/</guid>
+      <guid>http://multiples-lab.github.io/people/current/tianyi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yadi Cao</title>
-      <link>https://www.math.ucla.edu/~multiples/people/current/yadi/</link>
+      <link>http://multiples-lab.github.io/people/current/yadi/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/people/current/yadi/</guid>
+      <guid>http://multiples-lab.github.io/people/current/yadi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zeshun Zong</title>
-      <link>https://www.math.ucla.edu/~multiples/people/current/zeshun/</link>
+      <link>http://multiples-lab.github.io/people/current/zeshun/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/people/current/zeshun/</guid>
+      <guid>http://multiples-lab.github.io/people/current/zeshun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPU</title>
-      <link>https://www.math.ucla.edu/~multiples/research/hpc/gpu/</link>
+      <link>http://multiples-lab.github.io/research/hpc/gpu/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/hpc/gpu/</guid>
+      <guid>http://multiples-lab.github.io/research/hpc/gpu/</guid>
       <description> Related Publications [1] Ming Gao*, Xinlei Wang*, Kui Wu*(equal contributions), Andre Pradhana, Eftychios Sifakis, Cem Yuksel, Chenfanfu Jiang. GPU Optimization Of Material Point Methods. ACM Transactions on Graphics (TOG) 37, no. 6 (2018): 1-12. </description>
     </item>
     
     <item>
       <title>Multi-GPU</title>
-      <link>https://www.math.ucla.edu/~multiples/research/hpc/multigpu/</link>
+      <link>http://multiples-lab.github.io/research/hpc/multigpu/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/hpc/multigpu/</guid>
+      <guid>http://multiples-lab.github.io/research/hpc/multigpu/</guid>
       <description> Related Publications [1] Xinlei Wang*, Yuxing Qiu*(equal contributions), Stuart R. Slattery, Yu Fang, Minchen Li, Song-Chun Zhu, Yixin Zhu, Min Tang, Dinesh Manocha, Chenfanfu Jiang. &amp;ldquo;A Massively Parallel And Scalable Multi-GPU Material Point Method.&amp;rdquo; ACM Transactions on Graphics (TOG) 39, no. 4 (2020): 30-1. </description>
     </item>
     
     <item>
       <title>Scene Synthesis</title>
-      <link>https://www.math.ucla.edu/~multiples/research/ai_robotics/scene_syn/</link>
+      <link>http://multiples-lab.github.io/research/ai_robotics/scene_syn/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/ai_robotics/scene_syn/</guid>
+      <guid>http://multiples-lab.github.io/research/ai_robotics/scene_syn/</guid>
       <description>Related Publications [1] Tomer Weiss , Alan Litteneker, Noah Duncan, Masaki Nakada, Chenfanfu Jiang, Lap-Fai Yu, Demetri Terzopoulos. &amp;ldquo;Fast And Scalable Position-Based Layout Synthesis.&amp;rdquo; IEEE transactions on visualization and computer graphics 25, no. 12 (2018): 3231-3243.
 [2] Chenfanfu Jiang, Siyuan Qi, Yixin Zhu, Siyuan Huang, Jenny Lin, Lap-Fai Yu, Demetri Terzopoulos, and Song-Chun Zhu. &amp;ldquo;Configurable 3D Scene Synthesis And 2D Image Rendering With Per-Pixel Ground Truth Using Stochastic Grammars.&amp;rdquo; International Journal of Computer Vision 126, no.</description>
     </item>
     
     <item>
       <title>Topology Optimization</title>
-      <link>https://www.math.ucla.edu/~multiples/research/fabrication/topoopt/</link>
+      <link>http://multiples-lab.github.io/research/fabrication/topoopt/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/fabrication/topoopt/</guid>
+      <guid>http://multiples-lab.github.io/research/fabrication/topoopt/</guid>
       <description>The general objective of compliance-based topology optimization is to seek for a material distribution $\mathbf{\rho}$, a scalar field representing the material density at each point on a design domain $\Omega$, to obtain the minimal structural compliance $c(\mathbf{\rho}, \mathbf{u})$, or equivalently, the least strain energy $e(\mathbf{\rho}, \mathbf{u})$, under force equilibrium between external force load $\mathbf{f}$ and internal elasticity force $-\frac{\partial e}{\partial \mathbf{u}}$ with displacement $\mathbf{u}$: \begin{equation} \underset{\mathbf{\rho}}{\text{min}} \quad c(\mathbf{\rho}, \mathbf{u}) = e(\mathbf{\rho}, \mathbf{u}) \quad \text{s.</description>
     </item>
     
     <item>
       <title>Xuan Li</title>
-      <link>https://www.math.ucla.edu/~multiples/people/current/xuan/</link>
+      <link>http://multiples-lab.github.io/people/current/xuan/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/people/current/xuan/</guid>
+      <guid>http://multiples-lab.github.io/people/current/xuan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yunuo Chen</title>
-      <link>https://www.math.ucla.edu/~multiples/people/current/yunuo/</link>
+      <link>http://multiples-lab.github.io/people/current/yunuo/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/people/current/yunuo/</guid>
+      <guid>http://multiples-lab.github.io/people/current/yunuo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yuxing Qiu</title>
-      <link>https://www.math.ucla.edu/~multiples/people/current/yuxing/</link>
+      <link>http://multiples-lab.github.io/people/current/yuxing/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/people/current/yuxing/</guid>
+      <guid>http://multiples-lab.github.io/people/current/yuxing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ziyin Qu</title>
-      <link>https://www.math.ucla.edu/~multiples/people/current/ziyin/</link>
+      <link>http://multiples-lab.github.io/people/current/ziyin/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/people/current/ziyin/</guid>
+      <guid>http://multiples-lab.github.io/people/current/ziyin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yu Fang</title>
-      <link>https://www.math.ucla.edu/~multiples/people/current/yufang/</link>
+      <link>http://multiples-lab.github.io/people/current/yufang/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/people/current/yufang/</guid>
+      <guid>http://multiples-lab.github.io/people/current/yufang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluid Solid Interaction</title>
-      <link>https://www.math.ucla.edu/~multiples/research/material/fsi/</link>
+      <link>http://multiples-lab.github.io/research/material/fsi/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/material/fsi/</guid>
+      <guid>http://multiples-lab.github.io/research/material/fsi/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Incompressible Flow</title>
-      <link>https://www.math.ucla.edu/~multiples/research/fluid/incompressible/</link>
+      <link>http://multiples-lab.github.io/research/fluid/incompressible/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/fluid/incompressible/</guid>
+      <guid>http://multiples-lab.github.io/research/fluid/incompressible/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Medical Imaging</title>
-      <link>https://www.math.ucla.edu/~multiples/research/interventions/imaging/</link>
+      <link>http://multiples-lab.github.io/research/interventions/imaging/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/interventions/imaging/</guid>
+      <guid>http://multiples-lab.github.io/research/interventions/imaging/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Phase chage</title>
-      <link>https://www.math.ucla.edu/~multiples/research/material/phasechange/</link>
+      <link>http://multiples-lab.github.io/research/material/phasechange/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/material/phasechange/</guid>
+      <guid>http://multiples-lab.github.io/research/material/phasechange/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Variational Elasticity</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/variational_elasticity/</link>
+      <link>http://multiples-lab.github.io/research/solid/variational_elasticity/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/variational_elasticity/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/variational_elasticity/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Virtual Injury and Surgery</title>
-      <link>https://www.math.ucla.edu/~multiples/research/interventions/injury/</link>
+      <link>http://multiples-lab.github.io/research/interventions/injury/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/interventions/injury/</guid>
+      <guid>http://multiples-lab.github.io/research/interventions/injury/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Chenfanfu Jiang</title>
-      <link>https://www.math.ucla.edu/~multiples/people/faculty/fanfu/</link>
+      <link>http://multiples-lab.github.io/people/faculty/fanfu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/people/faculty/fanfu/</guid>
+      <guid>http://multiples-lab.github.io/people/faculty/fanfu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Scene Interaction</title>
-      <link>https://www.math.ucla.edu/~multiples/research/ai_robotics/human_scene_interact/</link>
+      <link>http://multiples-lab.github.io/research/ai_robotics/human_scene_interact/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/ai_robotics/human_scene_interact/</guid>
+      <guid>http://multiples-lab.github.io/research/ai_robotics/human_scene_interact/</guid>
       <description>Related Publications [1] Jenny Lin, Xingwen Guo, Jingyu Shao, Chenfanfu Jiang, Yixin Zhu, and Song-Chun Zhu. &amp;ldquo;A Virtual Reality Platform For Dynamic Human-Scene Interaction.&amp;rdquo; In SIGGRAPH ASIA 2016 virtual reality meets physical reality: Modelling and simulating virtual humans and environments, pp. 1-4. 2016.</description>
     </item>
     
     <item>
       <title>Robotics</title>
-      <link>https://www.math.ucla.edu/~multiples/research/fabrication/robotics/</link>
+      <link>http://multiples-lab.github.io/research/fabrication/robotics/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/fabrication/robotics/</guid>
+      <guid>http://multiples-lab.github.io/research/fabrication/robotics/</guid>
       <description>Related Publications [1] Kennedy, Monroe, Karl Schmeckpeper, Dinesh Thakur, Chenfanfu Jiang, Vijay Kumar, and Kostas Daniilidis. &amp;ldquo;Autonomous precision pouring from unknown containers.&amp;rdquo; IEEE Robotics and Automation Letters 4, no. 3 (2019): 2317-2324.
 [2] Liu, Hangxin, Chi Zhang, Yixin Zhu, Chenfanfu Jiang, and Song-Chun Zhu. &amp;ldquo;Mirroring without overimitation: Learning functionally equivalent manipulation actions.&amp;rdquo; In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, no. 01, pp. 8025-8033. 2019.</description>
     </item>
     
     <item>
       <title>Bubbles</title>
-      <link>https://www.math.ucla.edu/~multiples/research/fluid/bubbles/</link>
+      <link>http://multiples-lab.github.io/research/fluid/bubbles/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/fluid/bubbles/</guid>
+      <guid>http://multiples-lab.github.io/research/fluid/bubbles/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Frictional Contact</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/friction_contact/</link>
+      <link>http://multiples-lab.github.io/research/solid/friction_contact/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/friction_contact/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/friction_contact/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Minchen Li</title>
-      <link>https://www.math.ucla.edu/~multiples/people/faculty/minchen/</link>
+      <link>http://multiples-lab.github.io/people/faculty/minchen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/people/faculty/minchen/</guid>
+      <guid>http://multiples-lab.github.io/people/faculty/minchen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Cognition</title>
-      <link>https://www.math.ucla.edu/~multiples/research/ai_robotics/human_sim/</link>
+      <link>http://multiples-lab.github.io/research/ai_robotics/human_sim/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/ai_robotics/human_sim/</guid>
+      <guid>http://multiples-lab.github.io/research/ai_robotics/human_sim/</guid>
       <description>Related Publications [1] Tomer Weiss, Alan Litteneker, Chenfanfu Jiang, Demetri Terzopoulos. &amp;ldquo;Position-Based Multi-Agent Dynamics For Real-Time Crowd Simulation.&amp;rdquo; In Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, pp. 1-2. 2017. [2] Duotun Wang, James Kubrlcht, Yixin Zhu, Wei Lianq, Song-Chun Zhu, Chenfanfu Jiang, Hongjing Lu. &amp;ldquo;Spatially Perturbed Collision Sounds Attenuate Perceived Causality In 3d Launching Events.&amp;rdquo; In 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), pp.</description>
     </item>
     
     <item>
       <title>Soft Robotics</title>
-      <link>https://www.math.ucla.edu/~multiples/research/fabrication/soft-robotics/</link>
+      <link>http://multiples-lab.github.io/research/fabrication/soft-robotics/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/fabrication/soft-robotics/</guid>
+      <guid>http://multiples-lab.github.io/research/fabrication/soft-robotics/</guid>
       <description>Soft robots can utilize deformations to deliver functionalities. Our recent work published in ICRA 2021 proposes a new HAV design, wherein the vehicle switches between a quadrotor mode and a fixed wing mode via a compliant bistable mechanism that deploys wings without requiring any additional actuators for reconfiguration beyond those included for normal flight.
 Related Publications [1] Li, Xuan, Jessica McWilliams, Minchen Li, Cynthia Sung, and Chenfanfu Jiang. &amp;ldquo;Soft hybrid aerial vehicle via bistable mechanism.</description>
     </item>
     
     <item>
       <title>Geometry Processing</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/geometry_processing/</link>
+      <link>http://multiples-lab.github.io/research/solid/geometry_processing/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/geometry_processing/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/geometry_processing/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Computer Vision</title>
-      <link>https://www.math.ucla.edu/~multiples/research/ai_robotics/cv/</link>
+      <link>http://multiples-lab.github.io/research/ai_robotics/cv/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/ai_robotics/cv/</guid>
+      <guid>http://multiples-lab.github.io/research/ai_robotics/cv/</guid>
       <description>Related Publications [1] Yixin Zhu, Chenfanfu Jiang, Yibiao Zhao, Demetri Terzopoulos, and Song-Chun Zhu. &amp;ldquo;Inferring Forces And Learning Human Utilities From Videos.&amp;rdquo; In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3823-3833. 2016.</description>
     </item>
     
     <item>
       <title>Reduced Models</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/reduced/</link>
+      <link>http://multiples-lab.github.io/research/solid/reduced/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/reduced/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/reduced/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Animal Simulation</title>
-      <link>https://www.math.ucla.edu/~multiples/research/ai_robotics/animal/</link>
+      <link>http://multiples-lab.github.io/research/ai_robotics/animal/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/ai_robotics/animal/</guid>
+      <guid>http://multiples-lab.github.io/research/ai_robotics/animal/</guid>
       <description> Related Publications [1] Jingyi Fang, Chenfanfu Jiang, and Demetri Terzopoulos. &amp;ldquo;Modeling And Animating Myriapoda: A Real-Time Kinematic/Dynamic Approach.&amp;rdquo; In Proceedings of the 12th ACM SIGGRAPH/Eurographics Symposium on Computer Animation, pp. 203-212. 2013. </description>
     </item>
     
     <item>
       <title>Inelasticity</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/inelasticity/</link>
+      <link>http://multiples-lab.github.io/research/solid/inelasticity/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/inelasticity/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/inelasticity/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Fracture</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/fracture/</link>
+      <link>http://multiples-lab.github.io/research/solid/fracture/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/fracture/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/fracture/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Cutting</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/cut/</link>
+      <link>http://multiples-lab.github.io/research/solid/cut/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/cut/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/cut/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Granular Flow</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/granular/</link>
+      <link>http://multiples-lab.github.io/research/solid/granular/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/granular/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/granular/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Adaptivity</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/adaptivity/</link>
+      <link>http://multiples-lab.github.io/research/solid/adaptivity/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/adaptivity/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/adaptivity/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Geomechanics</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/geo/</link>
+      <link>http://multiples-lab.github.io/research/solid/geo/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/geo/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/geo/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://www.math.ucla.edu/~multiples/news/siggraph2022/</link>
+      <link>http://multiples-lab.github.io/news/siggraph2022/</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/news/siggraph2022/</guid>
+      <guid>http://multiples-lab.github.io/news/siggraph2022/</guid>
       <description>We have 6 papers to appear in SIGGRAPH 2022 VANCOUVER.</description>
     </item>
     
     <item>
       <title>IDP CIPC Codebase Released</title>
-      <link>https://www.math.ucla.edu/~multiples/news/idp_cipc/</link>
+      <link>http://multiples-lab.github.io/news/idp_cipc/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/news/idp_cipc/</guid>
+      <guid>http://multiples-lab.github.io/news/idp_cipc/</guid>
       <description>Our codebases for IDP and C-IPC are released: IDP-Code C-IPC-Code</description>
     </item>
     
     <item>
       <title>2021 Outstanding Doctoral Dissertation Award</title>
-      <link>https://www.math.ucla.edu/~multiples/news/minchen_award/</link>
+      <link>http://multiples-lab.github.io/news/minchen_award/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/news/minchen_award/</guid>
+      <guid>http://multiples-lab.github.io/news/minchen_award/</guid>
       <description>Minchen Li wins the ACM SIGGRAPH 2021 Outstanding Doctoral Dissertation Award.</description>
     </item>
     
     <item>
       <title>ICRA Best Paper</title>
-      <link>https://www.math.ucla.edu/~multiples/news/icra_best_paper/</link>
+      <link>http://multiples-lab.github.io/news/icra_best_paper/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/news/icra_best_paper/</guid>
+      <guid>http://multiples-lab.github.io/news/icra_best_paper/</guid>
       <description>Our paper Soft Hybrid Aerial Vehicle Via Bistable Mechanism wins the IEEE ICRA Best Paper Award on Mechanisms and Design.</description>
     </item>
     
     <item>
       <title>Multi-Physics Lagrangian-Eulerian Simulations Laboratory</title>
-      <link>https://www.math.ucla.edu/~multiples/home/</link>
+      <link>http://multiples-lab.github.io/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/home/</guid>
+      <guid>http://multiples-lab.github.io/home/</guid>
       <description>Welcome to UCLA Department of Mathematics Multi-Physics Lagrangian-Eulerian Simulations (MultiPLES) Laboratory. We focus on advancing the state of the art in scientific computing, particularly numerical methods and computational continuum mechanics. A large part of our research involves the multi-physics simulation of solids, fluids, and granular materials, especially through the enhancement of numerical methods for partial differential equations (PDEs) in terms of the scope of material modeling, geometric complexity, scale and resolution, efficiency, as well as stability, robustness, accuracy, and real-world predictivity.</description>
     </item>
     

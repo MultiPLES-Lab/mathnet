@@ -2,97 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solids on Multi-Physics Lagrangian-Eulerian Simulation Lab</title>
-    <link>https://www.math.ucla.edu/~multiples/research/solid/</link>
+    <link>http://multiples-lab.github.io/research/solid/</link>
     <description>Recent content in Solids on Multi-Physics Lagrangian-Eulerian Simulation Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.math.ucla.edu/~multiples/research/solid/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://multiples-lab.github.io/research/solid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Variational Elasticity</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/variational_elasticity/</link>
+      <link>http://multiples-lab.github.io/research/solid/variational_elasticity/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/variational_elasticity/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/variational_elasticity/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Frictional Contact</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/friction_contact/</link>
+      <link>http://multiples-lab.github.io/research/solid/friction_contact/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/friction_contact/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/friction_contact/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Geometry Processing</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/geometry_processing/</link>
+      <link>http://multiples-lab.github.io/research/solid/geometry_processing/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/geometry_processing/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/geometry_processing/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Reduced Models</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/reduced/</link>
+      <link>http://multiples-lab.github.io/research/solid/reduced/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/reduced/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/reduced/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Inelasticity</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/inelasticity/</link>
+      <link>http://multiples-lab.github.io/research/solid/inelasticity/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/inelasticity/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/inelasticity/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Fracture</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/fracture/</link>
+      <link>http://multiples-lab.github.io/research/solid/fracture/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/fracture/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/fracture/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Cutting</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/cut/</link>
+      <link>http://multiples-lab.github.io/research/solid/cut/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/cut/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/cut/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Granular Flow</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/granular/</link>
+      <link>http://multiples-lab.github.io/research/solid/granular/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/granular/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/granular/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Adaptivity</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/adaptivity/</link>
+      <link>http://multiples-lab.github.io/research/solid/adaptivity/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/adaptivity/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/adaptivity/</guid>
       <description>this is summary written in .md</description>
     </item>
     
     <item>
       <title>Geomechanics</title>
-      <link>https://www.math.ucla.edu/~multiples/research/solid/geo/</link>
+      <link>http://multiples-lab.github.io/research/solid/geo/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.math.ucla.edu/~multiples/research/solid/geo/</guid>
+      <guid>http://multiples-lab.github.io/research/solid/geo/</guid>
       <description>this is summary written in .md</description>
     </item>
     
