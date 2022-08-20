@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Multi-Physics Lagrangian-Eulerian Simulation Lab</title>
-    <link>http://multiples-lab.github.io/news/</link>
+    <link>https://www.math.ucla.edu/multiples/news/</link>
     <description>Recent content in News on Multi-Physics Lagrangian-Eulerian Simulation Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://multiples-lab.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.math.ucla.edu/multiples/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://multiples-lab.github.io/news/siggraph2022/</link>
+      <link>https://www.math.ucla.edu/multiples/news/siggraph2022/</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://multiples-lab.github.io/news/siggraph2022/</guid>
+      <guid>https://www.math.ucla.edu/multiples/news/siggraph2022/</guid>
       <description>We have 6 papers to appear in SIGGRAPH 2022 VANCOUVER.</description>
     </item>
     
     <item>
       <title>IDP CIPC Codebase Released</title>
-      <link>http://multiples-lab.github.io/news/idp_cipc/</link>
+      <link>https://www.math.ucla.edu/multiples/news/idp_cipc/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://multiples-lab.github.io/news/idp_cipc/</guid>
+      <guid>https://www.math.ucla.edu/multiples/news/idp_cipc/</guid>
       <description>Our codebases for IDP and C-IPC are released: IDP-Code C-IPC-Code</description>
     </item>
     
     <item>
       <title>2021 Outstanding Doctoral Dissertation Award</title>
-      <link>http://multiples-lab.github.io/news/minchen_award/</link>
+      <link>https://www.math.ucla.edu/multiples/news/minchen_award/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://multiples-lab.github.io/news/minchen_award/</guid>
+      <guid>https://www.math.ucla.edu/multiples/news/minchen_award/</guid>
       <description>Minchen Li wins the ACM SIGGRAPH 2021 Outstanding Doctoral Dissertation Award.</description>
     </item>
     
     <item>
       <title>ICRA Best Paper</title>
-      <link>http://multiples-lab.github.io/news/icra_best_paper/</link>
+      <link>https://www.math.ucla.edu/multiples/news/icra_best_paper/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://multiples-lab.github.io/news/icra_best_paper/</guid>
+      <guid>https://www.math.ucla.edu/multiples/news/icra_best_paper/</guid>
       <description>Our paper Soft Hybrid Aerial Vehicle Via Bistable Mechanism wins the IEEE ICRA Best Paper Award on Mechanisms and Design.</description>
     </item>
     

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multi-Physics Lagrangian-Eulerian Simulation Lab</title>
-    <link>http://multiples-lab.github.io/people/faculty/</link>
+    <link>https://www.math.ucla.edu/multiples/people/faculty/</link>
     <description>Recent content on Multi-Physics Lagrangian-Eulerian Simulation Lab</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://multiples-lab.github.io/people/faculty/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.math.ucla.edu/multiples/people/faculty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chenfanfu Jiang</title>
-      <link>http://multiples-lab.github.io/people/faculty/fanfu/</link>
+      <link>https://www.math.ucla.edu/multiples/people/faculty/fanfu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://multiples-lab.github.io/people/faculty/fanfu/</guid>
+      <guid>https://www.math.ucla.edu/multiples/people/faculty/fanfu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minchen Li</title>
-      <link>http://multiples-lab.github.io/people/faculty/minchen/</link>
+      <link>https://www.math.ucla.edu/multiples/people/faculty/minchen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://multiples-lab.github.io/people/faculty/minchen/</guid>
+      <guid>https://www.math.ucla.edu/multiples/people/faculty/minchen/</guid>
       <description></description>
     </item>
     
