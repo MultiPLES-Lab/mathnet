@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solids on UCLA Artificial Intelligence &amp; Visual Computing Lab</title>
+    <link>https://www.math.ucla.edu/aivc/research/solid/</link>
+    <description>Recent content in Solids on UCLA Artificial Intelligence &amp; Visual Computing Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.math.ucla.edu/aivc/research/solid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Variational Elasticity</title>
+      <link>https://www.math.ucla.edu/aivc/research/solid/variational_elasticity/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/solid/variational_elasticity/</guid>
+      <description>this is summary written in .md</description>
+    </item>
+    <item>
+      <title>Frictional Contact</title>
+      <link>https://www.math.ucla.edu/aivc/research/solid/friction_contact/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/solid/friction_contact/</guid>
+      <description>this is summary written in .md</description>
+    </item>
+    <item>
+      <title>Geometry Processing</title>
+      <link>https://www.math.ucla.edu/aivc/research/solid/geometry_processing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/solid/geometry_processing/</guid>
+      <description>this is summary written in .md</description>
+    </item>
+    <item>
+      <title>Reduced Models</title>
+      <link>https://www.math.ucla.edu/aivc/research/solid/reduced/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/solid/reduced/</guid>
+      <description>this is summary written in .md</description>
+    </item>
+    <item>
+      <title>Inelasticity</title>
+      <link>https://www.math.ucla.edu/aivc/research/solid/inelasticity/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/solid/inelasticity/</guid>
+      <description>this is summary written in .md</description>
+    </item>
+    <item>
+      <title>Fracture</title>
+      <link>https://www.math.ucla.edu/aivc/research/solid/fracture/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/solid/fracture/</guid>
+      <description>this is summary written in .md</description>
+    </item>
+    <item>
+      <title>Cutting</title>
+      <link>https://www.math.ucla.edu/aivc/research/solid/cut/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/solid/cut/</guid>
+      <description>this is summary written in .md</description>
+    </item>
+    <item>
+      <title>Granular Flow</title>
+      <link>https://www.math.ucla.edu/aivc/research/solid/granular/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/solid/granular/</guid>
+      <description>this is summary written in .md</description>
+    </item>
+    <item>
+      <title>Adaptivity</title>
+      <link>https://www.math.ucla.edu/aivc/research/solid/adaptivity/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/solid/adaptivity/</guid>
+      <description>this is summary written in .md</description>
+    </item>
+    <item>
+      <title>Geomechanics</title>
+      <link>https://www.math.ucla.edu/aivc/research/solid/geo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/solid/geo/</guid>
+      <description>this is summary written in .md</description>
+    </item>
+  </channel>
+</rss>

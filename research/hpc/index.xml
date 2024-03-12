@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>High Performance Computing on UCLA Artificial Intelligence &amp; Visual Computing Lab</title>
+    <link>https://www.math.ucla.edu/aivc/research/hpc/</link>
+    <description>Recent content in High Performance Computing on UCLA Artificial Intelligence &amp; Visual Computing Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.math.ucla.edu/aivc/research/hpc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPU</title>
+      <link>https://www.math.ucla.edu/aivc/research/hpc/gpu/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/hpc/gpu/</guid>
+      <description> Related Publications [1] Ming Gao*, Xinlei Wang*, Kui Wu*(equal contributions), Andre Pradhana, Eftychios Sifakis, Cem Yuksel, Chenfanfu Jiang. GPU Optimization Of Material Point Methods. ACM Transactions on Graphics (TOG) 37, no. 6 (2018): 1-12. </description>
+    </item>
+    <item>
+      <title>Multi-GPU</title>
+      <link>https://www.math.ucla.edu/aivc/research/hpc/multigpu/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/hpc/multigpu/</guid>
+      <description> Related Publications [1] Xinlei Wang*, Yuxing Qiu*(equal contributions), Stuart R. Slattery, Yu Fang, Minchen Li, Song-Chun Zhu, Yixin Zhu, Min Tang, Dinesh Manocha, Chenfanfu Jiang. &amp;ldquo;A Massively Parallel And Scalable Multi-GPU Material Point Method.&amp;rdquo; ACM Transactions on Graphics (TOG) 39, no. 4 (2020): 30-1. </description>
+    </item>
+  </channel>
+</rss>

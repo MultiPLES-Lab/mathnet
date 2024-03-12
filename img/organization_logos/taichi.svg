@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 81.99738 104.95197"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="taichi.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   width="81.997375"
+   height="104.95197"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.1304207"
+     inkscape:cx="56.561598"
+     inkscape:cy="50.224822"
+     inkscape:window-width="1296"
+     inkscape:window-height="774"
+     inkscape:window-x="144"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg32" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fff;}</style>
+  </defs>
+  <polygon
+     class="cls-1"
+     points="28.11,88.67 19.29,103.94 36.92,103.94 "
+     id="polygon6"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+     transform="translate(0.57737454,0.51197414)" />
+  <path
+     class="cls-1"
+     d="m 28.577375,56.901974 a 30.22,30.22 0 1 0 -10.25,-42.6 c -0.27,0.44 -0.55,0.87 -0.81,1.32 -0.26,0.45 -0.49,0.91 -0.74,1.37 a 30.22,30.22 0 0 0 11.8,39.91 z"
+     id="path8"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+  <polygon
+     class="cls-1"
+     points="27.96,56.39 9.32,56.39 0,72.53 9.32,88.67 27.96,88.67 37.28,72.53 "
+     id="polygon10"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+     transform="translate(0.57737454,0.51197414)" />
+  <circle
+     class="cls-1"
+     cx="73.867378"
+     cy="83.061974"
+     r="7.6300001"
+     id="circle12"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+</svg>

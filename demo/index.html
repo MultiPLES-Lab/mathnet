@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="description" content="Multi-Physics Lagrangian-Eulerian Simulation Lab">
+<meta name="author" content="MultiPLES-Lab">
+
+
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+<link rel="stylesheet" href=/aivc/css/multiples.css type="text/css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+
+
+ <link rel="icon" href="/aivc/img/website%20icon.png" />
+ 
+<title> Demo |  UCLA Artificial Intelligence &amp; Visual Computing Lab</title>
+<script>
+        $(document).ready(function(){
+            $('[data-toggle="popover"]').popover();   
+        });
+</script>
+</head>
+
+<body>
+
+
+
+
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/aivc">
+        <img src="/aivc/img/lab%20short%20blue.png", height=40px>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          
+          
+            
+            
+            
+            
+            
+          <li class="nav-item">
+            <a class="nav-link  text-decoration-none" href="/aivc/">Home</a>
+          </li>
+          
+            
+            
+            
+            
+            
+          <li class="nav-item">
+            <a class="nav-link  text-decoration-none" href="/aivc/people">People</a>
+          </li>
+          
+            
+            
+            
+            
+            
+          <li class="nav-item">
+            <a class="nav-link  text-decoration-none" href="/aivc/publication">Publications</a>
+          </li>
+          
+            
+            
+            
+            
+            
+          <li class="nav-item">
+            <a class="nav-link active text-decoration-none" href="/aivc/demo">Demo</a>
+          </li>
+          
+        </ul>
+        <form class="d-flex">
+          
+          
+            
+        </form>
+      </div>
+    </div>
+</nav>
+<div class="container" style="margin-top: 50px;">
+<main>
+
+
+<div style="margin-top: 60px;"> </div>
+<div class="row row-cols-xl-3">
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/xie2024physgaussian.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1z5Ls9VGnNi2SUCXrnXoGnTwa8MDf5yiO/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/feng2024pienerf.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1XRXvwmjD2Y2PXQkXBxHFWqn47eEUzJnm/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/li2023pacnerf.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1PzhQ21iJD1voJfCcQAppUXfCcRxk9CeE/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/qu2023powerplastics.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1HP5J5BjTYMtqR1JhGpvofTtQbcS3QV8R/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/li2023subspacepreconditionedgpu.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1RqOAJLWntvqL63lDy2ubQHoJ8cBGkHn8/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/zong2023neuralstressfields.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1eqKFG3tJ2zepZ6owXmjL_QtKZYvA8-pl/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/su2023versatilempm.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/19c5aCNNpTKRm6Zqq2eo-X2cpOJw44qP9/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/fang2023augmentedipc.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1wZXEOOq2CkmG51goBOiEsBqUdHSQ3qfg/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/chen2023thickshell.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1B41MkJlDnqPn5yYD9pX8HqZIG_zvz51b/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/xie2023sphipc.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1oj6jm3C6kx7jsLJfa2ez0BQ1r_hoBnEl/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/lan2023sdipc.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1cGlm7m8KiTusHjZK7AqH7w_4wlKnjVKB/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/qiu2023mpimpm.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1BUSMbBZ6zojcmwtgmfMpNwy0REthP3ua/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/li2022plasticitynet.jpeg" width="400" height="225" data-video="https://drive.google.com/file/d/1tcD6oHuU9fYWxQkQkbYuObe3ivgerWbJ/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/cover.png" width="400" height="225" data-video="https://drive.google.com/file/d/1WxrlntduoSPVRi9Jzby8GgvAqz2pMu1k/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/presentation_recording.001.jpeg" width="400" height="225" data-video="https://drive.google.com/file/d/1YsLW-KShQr1TKzxADf94EBkXl98gm2C8/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/chen2022multibody.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1jNMil4Waur7XYj8DXBTLyZtxVOTmLhhm/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/lan2022pdipc.jpeg" width="400" height="225" data-video="https://drive.google.com/file/d/1XBSImJu2N2l5uFdyXj4lijwoH6yKIcPl/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/lan2022abd.jpeg" width="400" height="225" data-video="https://drive.google.com/file/d/1YXZh-o3ummUC2rNewVJDVay9yDnNtZez/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/li2022eci.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1ooOfN1Nx9o8eEfBwbHHRczlI4JJehVwh/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/huang2021ocean.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/16gkmOfNYc5mlwGloHD6BTzKrdkzI3srg/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/wolper2021glacier.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/17Lr7CQe8Z6KSIsNx8uIeK4uc0yjzq-M9/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/li2021cipc.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1mSi7rDtI_2-K_EcUsapmeKscDDMCMyFT/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/fang2021idp.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1mO7cBstxS1UzGqQL1fUEGqCLysOmhxXk/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/ferguson2021rigid.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1I3ahtBXU0qYjsD0KxeEmwPb0cSqZj4Bk/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/lan2021mipc.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1FxMVTLdRubom5W6pSsp4YD1D_R53BPzi/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/su2021unified.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1UUZGrJOl4mT3WxNdXm3MITBINr0G8ynw/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/shen2021auto.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1y7WE3YgLC8erbSCEYjBkWb0-Jq8WEQxC/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/xue2020nonfourier.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1a6WOnh4EapqmPw6yEXS6VrP5t6w4W9RI/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/wolper2020aniso.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1Y-pm7nNwQWDro2RtzeBMGG7du4qVs18a/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/li2020ipc.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1e7suyhDXionOQKdRAv9X7vf7YpKCCis2/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/fang2020iq.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1yw73uERGmX95HU6RChh_WVw8qa7lHoSs/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/huang2020chemo.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1-ysVaBd65r4h3fzVSjrh56XFQ2_Gu4hq/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/wang2020gpu.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1B28qI34d-SbWGIYZHZICsV6pLicPRSuA/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/wang2020hot.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1mq7fSZiwGFqwCMg8wHn64ViTs_LYVjQu/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/gagniere2020hybrid.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1UsayDrvwKLZlZOCRj20a4lJUwkxdN-rS/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/wolper2019cdmpm.png" width="400" height="225" data-video="https://drive.google.com/file/d/1q1HF2mEjzS6l0VRTSzVODstVeXEbZSIx/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/fang2019visco.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1RBvfFKg1EC7P0KDpJgtvL-9pMcsLRj-H/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/li2019dot.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1UVl9Cq4wXcwBsulXr94c3cZm8eZkTGKz/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/qu2019advection.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1AuFHAPMuPp7ZfY8eIyrdXmC4EZ1QeMuy/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/han2019contact.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1ROYagoRXwgUI4iR1R1FJKTZPmLi5ouK0/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/wang2019ductile.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1SpHDJ8_PW7jG3LpTIwkQi62YOdcx1FNG/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/yang2019sphere.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1ExhWQjNNCECetqbJ-0UQbC4Tk6wHJ2BM/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/gao2018gpu.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1LEZAvpraZRs994ZCEn6qv70dMovwenUK/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/weiss2018layout.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/13l6G44wPxvUTMayXAEvfHz4qt-09Cxu6/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/fang2018async.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1v2EbyYvy3IWkT_SlzyMmTLy21GFHfXM_/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/hu2018mls.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1sNb4ghrxCeijhSVirjsDU87y4NRtiF-g/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/gao2018sediment.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/17haFfnsNOSpDH33rnZWNgq9IZnP9mX9d/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/gaume2018avalanche.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/17et8J-8QFqSh25fICoxK7tBoU69uw56o/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/gao2017adaptive.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1AKRAH33MHPjpaWhuKFT1IivyqLX825jL/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/fu2017poly.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1qGvw5GL-BkvbR9_dwBbjHP3MXXwyk72f/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/weiss2017crowd.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1wMjcn4uYXlF6xdqiDTxJrpt7gOhMUo1J/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/jiang2017qr.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/15q5SSxSaVRB8FwaaYCNCzu3NFj195EWC/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/tampubolon2017wet.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1qz0JfLEhXZtVIXjbt2WngBa7mTaAyaHt/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/klar2016drucker.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1Tk62TIrZAgOyQkJB8-rv2g-0JcB0IHSr/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/ram2015visco.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1L-l59LdTnMNhlnV3JjnZJAmviAgEJES4/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/jiang2015apic.png" width="400" height="225" data-video="https://drive.google.com/file/d/19OgC-V-GUlna_vXrLgYc25nI1jxH6keF/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/gast2014op.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1r6CEGnWGeObi32hEHrG_Q8bQmClnY6-1/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/stomakhin2014melt.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1lVnybUdP_b7qHw9FelsIgQ-HcXDnbnq5/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/wang2014cut.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1WECHkDaefUU_qsJq-hZIyxOOaDTkY-iY/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/hegemann2013fracture.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/1YF1QZzaIohhPeqqqYztSFKp2qxiAQyct/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+<div class="col" align=center>
+        <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+            <div class="container" style="padding-left:0; padding-right:0; padding-top:10px; padding-bottom: 5px; "> 
+                <div class="video">
+                    <img src="/aivc/img/demo/fang2013centi.jpg" width="400" height="225" data-video="https://drive.google.com/file/d/125_hKJnUTCOjQyVx53Wq64Y_Gf18Mx9J/preview", style="box-shadow: 5px 5px 10px #a7a7a7;">
+                </div>
+                </iframe>
+            </div>
+        </div>
+</div>
+
+</div>
+<div style="margin-bottom: 50px;"> </div>
+
+</main>
+</div>
+<script src="//code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/268c7f320e.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+<script type="text/javascript" src=/aivc/js/multiples.js></script> 
+
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+
+
+</body>
+<footer>
+
+<div style="width:100%; background:#28242c;"> 
+  <div class="container footer-container" style="color:#fff; width: 80%">
+    <br>
+  <div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12", style="text-align: left; margin-bottom: 20px; margin-top:60px">
+      <h3 style="margin-bottom: 20px;"> Address</h3>
+      
+        
+          <p>603 Charles E Young Dr E</p>
+        
+          <p>Slichter Hall 3860</p>
+        
+          <p>Los Angeles, CA 90095</p>
+        
+      
+    </div>
+
+    
+  </div>
+  </div>
+
+  <div class="footer-container" style="text-align: center; color:#c4c4c4; margin-top: 50px; "> 
+      <small>
+        <p>Copyright &copy; 2024 AIVC-Lab. All rights reserved.</p> 
+        <br>
+    </small>
+  </div>
+</div>
+
+</footer>
+</html>

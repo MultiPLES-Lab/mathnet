@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fluids on UCLA Artificial Intelligence &amp; Visual Computing Lab</title>
+    <link>https://www.math.ucla.edu/aivc/research/fluid/</link>
+    <description>Recent content in Fluids on UCLA Artificial Intelligence &amp; Visual Computing Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.math.ucla.edu/aivc/research/fluid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incompressible Flow</title>
+      <link>https://www.math.ucla.edu/aivc/research/fluid/incompressible/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/fluid/incompressible/</guid>
+      <description>this is summary written in .md</description>
+    </item>
+    <item>
+      <title>Bubbles</title>
+      <link>https://www.math.ucla.edu/aivc/research/fluid/bubbles/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/research/fluid/bubbles/</guid>
+      <description>this is summary written in .md</description>
+    </item>
+  </channel>
+</rss>
