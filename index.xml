@@ -90,28 +90,28 @@
       <link>https://www.math.ucla.edu/aivc/research/hpc/gpu/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/research/hpc/gpu/</guid>
-      <description> Related Publications [1] Ming Gao*, Xinlei Wang*, Kui Wu*(equal contributions), Andre Pradhana, Eftychios Sifakis, Cem Yuksel, Chenfanfu Jiang. GPU Optimization Of Material Point Methods. ACM Transactions on Graphics (TOG) 37, no. 6 (2018): 1-12. </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/289403707&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h2&gt;&#xA;&lt;p&gt;[1] Ming Gao*, Xinlei Wang*, Kui Wu*(equal contributions), Andre Pradhana, Eftychios Sifakis, Cem Yuksel, Chenfanfu Jiang. &lt;a href=&#34;https://www.math.ucla.edu/~cffjiang/research/gpumpm/gao2018gpu.pdf&#34;&gt;GPU Optimization Of Material Point Methods.&lt;/a&gt; ACM Transactions on Graphics (TOG) 37, no. 6 (2018): 1-12.&#xA;&lt;a href=&#34;https://www.math.ucla.edu/~cffjiang/research/gpumpm/gao2018gpu_tech.pdf&#34;&gt;&lt;i class=&#34;fa fa-file&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://vimeo.com/289403707&#34;&gt;&lt;i class=&#34;fa fa-play&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/kuiwuchn/GPUMPM&#34;&gt;&lt;i class=&#34;fa fa-code-fork&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Multi-GPU</title>
       <link>https://www.math.ucla.edu/aivc/research/hpc/multigpu/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/research/hpc/multigpu/</guid>
-      <description> Related Publications [1] Xinlei Wang*, Yuxing Qiu*(equal contributions), Stuart R. Slattery, Yu Fang, Minchen Li, Song-Chun Zhu, Yixin Zhu, Min Tang, Dinesh Manocha, Chenfanfu Jiang. &amp;ldquo;A Massively Parallel And Scalable Multi-GPU Material Point Method.&amp;rdquo; ACM Transactions on Graphics (TOG) 39, no. 4 (2020): 30-1. </description>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/414136257&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h2&gt;&#xA;&lt;p&gt;[1] Xinlei Wang*, Yuxing Qiu*(equal contributions), Stuart R. Slattery, Yu Fang, Minchen Li, Song-Chun Zhu, Yixin Zhu, Min Tang, Dinesh Manocha, Chenfanfu Jiang. &amp;ldquo;&lt;a href=&#34;https://www.math.ucla.edu/~cffjiang/research/wang2020multigpu/wang2020multigpu.pdf&#34;&gt;A Massively Parallel And Scalable Multi-GPU Material Point Method.&lt;/a&gt;&amp;rdquo; ACM Transactions on Graphics (TOG) 39, no. 4 (2020): 30-1.&#xA;&lt;a href=&#34;https://sites.google.com/view/siggraph2020-multigpu&#34;&gt;&lt;i class=&#34;fa fa-newspaper-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.math.ucla.edu/~cffjiang/research/wang2020multigpu/supp.pdf&#34;&gt;&lt;i class=&#34;fa fa-file&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://vimeo.com/414136257&#34;&gt;&lt;i class=&#34;fa fa-play&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/penn-graphics-research/claymore&#34;&gt;&lt;i class=&#34;fa fa-code-fork&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Scene Synthesis</title>
       <link>https://www.math.ucla.edu/aivc/research/ai_robotics/scene_syn/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/research/ai_robotics/scene_syn/</guid>
-      <description>Related Publications [1] Tomer Weiss , Alan Litteneker, Noah Duncan, Masaki Nakada, Chenfanfu Jiang, Lap-Fai Yu, Demetri Terzopoulos. &amp;ldquo;Fast And Scalable Position-Based Layout Synthesis.&amp;rdquo; IEEE transactions on visualization and computer graphics 25, no. 12 (2018): 3231-3243.&#xA;[2] Chenfanfu Jiang, Siyuan Qi, Yixin Zhu, Siyuan Huang, Jenny Lin, Lap-Fai Yu, Demetri Terzopoulos, and Song-Chun Zhu. &amp;ldquo;Configurable 3D Scene Synthesis And 2D Image Rendering With Per-Pixel Ground Truth Using Stochastic Grammars.&amp;rdquo; International Journal of Computer Vision 126, no.</description>
+      <description>&lt;!-- &#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/289403707&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA; --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h2&gt;&#xA;&lt;p&gt;[1] Tomer Weiss , Alan Litteneker, Noah Duncan, Masaki Nakada, Chenfanfu Jiang, Lap-Fai Yu, Demetri Terzopoulos. &amp;ldquo;&lt;a href=&#34;https://ieeexplore.ieee.org/document/8443151/&#34;&gt;Fast And Scalable Position-Based Layout Synthesis.&lt;/a&gt;&amp;rdquo; IEEE transactions on visualization and computer graphics 25, no. 12 (2018): 3231-3243.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Topology Optimization</title>
       <link>https://www.math.ucla.edu/aivc/research/fabrication/topoopt/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/research/fabrication/topoopt/</guid>
-      <description>The general objective of compliance-based topology optimization is to seek for a material distribution $\mathbf{\rho}$, a scalar field representing the material density at each point on a design domain $\Omega$, to obtain the minimal structural compliance $c(\mathbf{\rho}, \mathbf{u})$, or equivalently, the least strain energy $e(\mathbf{\rho}, \mathbf{u})$, under force equilibrium between external force load $\mathbf{f}$ and internal elasticity force $-\frac{\partial e}{\partial \mathbf{u}}$ with displacement $\mathbf{u}$: \begin{equation} \underset{\mathbf{\rho}}{\text{min}} \quad c(\mathbf{\rho}, \mathbf{u}) = e(\mathbf{\rho}, \mathbf{u}) \quad \text{s.</description>
+      <description>&lt;p&gt;The general objective of compliance-based topology optimization is to seek for a material distribution $\mathbf{\rho}$, a scalar field representing the material density at each point on a design domain $\Omega$, to obtain the minimal structural compliance $c(\mathbf{\rho}, \mathbf{u})$, or equivalently, the least strain energy $e(\mathbf{\rho}, \mathbf{u})$, under force equilibrium between external force load $\mathbf{f}$ and internal elasticity force $-\frac{\partial e}{\partial \mathbf{u}}$ with displacement $\mathbf{u}$:&#xA;\begin{equation}&#xA;\underset{\mathbf{\rho}}{\text{min}} \quad c(\mathbf{\rho}, \mathbf{u}) = e(\mathbf{\rho}, \mathbf{u})&#xA;\quad \text{s.t.} \quad&#xA;\begin{cases}&#xA;\frac{\partial e}{\partial \mathbf{u}}(\mathbf{\rho}, \mathbf{u}) = \mathbf{f} \&#xA;\mathbf{Du} = \mathbf{0}\&#xA;V(\mathbf{\rho}) \le \hat{V}.&#xA;\end{cases}&#xA;\label{eq:formulation}&#xA;\end{equation}&#xA;Here $\mathbf{Du} = \mathbf{0}$ is the discretized Dirichlet boundary condition where $\mathbf{D}$ selects the zero displacement nodes, $V(\mathbf{\rho}) = \int_{\Omega_0} \rho d\mathbf{X}$ is the total volume of the structure, and $\hat{V}$ is an upper bound specified by users to avoid trivial solutions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Xuan Li</title>
@@ -202,14 +202,14 @@
       <link>https://www.math.ucla.edu/aivc/research/ai_robotics/human_scene_interact/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/research/ai_robotics/human_scene_interact/</guid>
-      <description>Related Publications [1] Jenny Lin, Xingwen Guo, Jingyu Shao, Chenfanfu Jiang, Yixin Zhu, and Song-Chun Zhu. &amp;ldquo;A Virtual Reality Platform For Dynamic Human-Scene Interaction.&amp;rdquo; In SIGGRAPH ASIA 2016 virtual reality meets physical reality: Modelling and simulating virtual humans and environments, pp. 1-4. 2016.</description>
+      <description>&lt;!-- &#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/289403707&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA; --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h2&gt;&#xA;&lt;p&gt;[1] Jenny Lin, Xingwen Guo, Jingyu Shao, Chenfanfu Jiang, Yixin Zhu, and Song-Chun Zhu. &amp;ldquo;&lt;a href=&#34;https://www.math.ucla.edu/~cffjiang/research/vr/vr.pdf&#34;&gt;A Virtual Reality Platform For Dynamic Human-Scene Interaction.&lt;/a&gt;&amp;rdquo; In SIGGRAPH ASIA 2016 virtual reality meets physical reality: Modelling and simulating virtual humans and environments, pp. 1-4. 2016.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Robotics</title>
       <link>https://www.math.ucla.edu/aivc/research/fabrication/robotics/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/research/fabrication/robotics/</guid>
-      <description>Related Publications [1] Kennedy, Monroe, Karl Schmeckpeper, Dinesh Thakur, Chenfanfu Jiang, Vijay Kumar, and Kostas Daniilidis. &amp;ldquo;Autonomous precision pouring from unknown containers.&amp;rdquo; IEEE Robotics and Automation Letters 4, no. 3 (2019): 2317-2324.&#xA;[2] Liu, Hangxin, Chi Zhang, Yixin Zhu, Chenfanfu Jiang, and Song-Chun Zhu. &amp;ldquo;Mirroring without overimitation: Learning functionally equivalent manipulation actions.&amp;rdquo; In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, no. 01, pp. 8025-8033. 2019.</description>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h2&gt;&#xA;&lt;p&gt;[1] Kennedy, Monroe, Karl Schmeckpeper, Dinesh Thakur, Chenfanfu Jiang, Vijay Kumar, and Kostas Daniilidis. &amp;ldquo;Autonomous precision pouring from unknown containers.&amp;rdquo; IEEE Robotics and Automation Letters 4, no. 3 (2019): 2317-2324.&lt;/p&gt;&#xA;&lt;p&gt;[2] Liu, Hangxin, Chi Zhang, Yixin Zhu, Chenfanfu Jiang, and Song-Chun Zhu. &amp;ldquo;Mirroring without overimitation: Learning functionally equivalent manipulation actions.&amp;rdquo; In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, no. 01, pp. 8025-8033. 2019.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bubbles</title>
@@ -237,14 +237,14 @@
       <link>https://www.math.ucla.edu/aivc/research/ai_robotics/human_sim/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/research/ai_robotics/human_sim/</guid>
-      <description>Related Publications [1] Tomer Weiss, Alan Litteneker, Chenfanfu Jiang, Demetri Terzopoulos. &amp;ldquo;Position-Based Multi-Agent Dynamics For Real-Time Crowd Simulation.&amp;rdquo; In Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, pp. 1-2. 2017. [2] Duotun Wang, James Kubrlcht, Yixin Zhu, Wei Lianq, Song-Chun Zhu, Chenfanfu Jiang, Hongjing Lu. &amp;ldquo;Spatially Perturbed Collision Sounds Attenuate Perceived Causality In 3d Launching Events.&amp;rdquo; In 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), pp.</description>
+      <description>&lt;!-- &#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/289403707&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA; --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h2&gt;&#xA;&lt;p&gt;[1] Tomer Weiss, Alan Litteneker, Chenfanfu Jiang, Demetri Terzopoulos. &amp;ldquo;&lt;a href=&#34;https://www.math.ucla.edu/~cffjiang/research/crowd/weiss2017crowd.pdf&#34;&gt;Position-Based Multi-Agent Dynamics For Real-Time Crowd Simulation.&lt;/a&gt;&amp;rdquo; In Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, pp. 1-2. 2017.&#xA;&lt;a href=&#34;https://youtu.be/NltNl7_1uHs&#34;&gt;&lt;i class=&#34;fa fa-play&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Soft Robotics</title>
       <link>https://www.math.ucla.edu/aivc/research/fabrication/soft-robotics/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/research/fabrication/soft-robotics/</guid>
-      <description>Soft robots can utilize deformations to deliver functionalities. Our recent work published in ICRA 2021 proposes a new HAV design, wherein the vehicle switches between a quadrotor mode and a fixed wing mode via a compliant bistable mechanism that deploys wings without requiring any additional actuators for reconfiguration beyond those included for normal flight.&#xA;Related Publications [1] Li, Xuan, Jessica McWilliams, Minchen Li, Cynthia Sung, and Chenfanfu Jiang. &amp;ldquo;Soft hybrid aerial vehicle via bistable mechanism.</description>
+      <description>&lt;p&gt;Soft robots can utilize deformations to deliver functionalities. Our recent work published in ICRA 2021 proposes a new HAV design, wherein the vehicle switches between a quadrotor mode and a fixed wing mode via a compliant bistable mechanism that deploys wings without requiring any additional actuators for reconfiguration beyond those included for normal flight.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;img src=&#34;https://www.math.ucla.edu/aivc/aivc/research/fabrication/soft-robotics/transition.gif&#34; width=&#34;60%&#34; alt=&#34;transition.gif&#34;&gt;&#xA;&#xA;&lt;!-- &#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fnTyAVVzJMc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA; --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h2&gt;&#xA;&lt;p&gt;[1] Li, Xuan, Jessica McWilliams, Minchen Li, Cynthia Sung, and Chenfanfu Jiang. &amp;ldquo;Soft hybrid aerial vehicle via bistable mechanism.&amp;rdquo; In 2021 IEEE International Conference on Robotics and Automation (ICRA), pp. 7107-7113. IEEE, 2021.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Geometry Processing</title>
@@ -258,7 +258,7 @@
       <link>https://www.math.ucla.edu/aivc/research/ai_robotics/cv/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/research/ai_robotics/cv/</guid>
-      <description>Related Publications [1] Yixin Zhu, Chenfanfu Jiang, Yibiao Zhao, Demetri Terzopoulos, and Song-Chun Zhu. &amp;ldquo;Inferring Forces And Learning Human Utilities From Videos.&amp;rdquo; In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3823-3833. 2016.</description>
+      <description>&lt;!-- &#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/289403707&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA; --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h2&gt;&#xA;&lt;p&gt;[1] Yixin Zhu, Chenfanfu Jiang, Yibiao Zhao, Demetri Terzopoulos, and Song-Chun Zhu. &amp;ldquo;&lt;a href=&#34;https://www.math.ucla.edu/~cffjiang/research/chair/chair.pdf&#34;&gt;Inferring Forces And Learning Human Utilities From Videos.&lt;/a&gt;&amp;rdquo; In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3823-3833. 2016.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reduced Models</title>
@@ -272,7 +272,7 @@
       <link>https://www.math.ucla.edu/aivc/research/ai_robotics/animal/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/research/ai_robotics/animal/</guid>
-      <description> Related Publications [1] Jingyi Fang, Chenfanfu Jiang, and Demetri Terzopoulos. &amp;ldquo;Modeling And Animating Myriapoda: A Real-Time Kinematic/Dynamic Approach.&amp;rdquo; In Proceedings of the 12th ACM SIGGRAPH/Eurographics Symposium on Computer Animation, pp. 203-212. 2013. </description>
+      <description>&lt;!-- &#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/289403707&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA; --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h2&gt;&#xA;&lt;p&gt;[1] Jingyi Fang, Chenfanfu Jiang, and Demetri Terzopoulos. &amp;ldquo;&lt;a href=&#34;https://www.math.ucla.edu/~cffjiang/research/centi/paper.pdf&#34;&gt;Modeling And Animating Myriapoda: A Real-Time Kinematic/Dynamic Approach.&lt;/a&gt;&amp;rdquo; In Proceedings of the 12th ACM SIGGRAPH/Eurographics Symposium on Computer Animation, pp. 203-212. 2013.&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=e3_eTKkYGE4&#34;&gt;&lt;i class=&#34;fa fa-play&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inelasticity</title>
@@ -321,91 +321,91 @@
       <link>https://www.math.ucla.edu/aivc/news/cvpr2024/</link>
       <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/cvpr2024/</guid>
-      <description>[2024-02-26] We have 2 papers to appear in CVPR 2024.</description>
+      <description>&lt;p&gt;&lt;strong&gt;[2024-02-26]&lt;/strong&gt; We have 2 papers to appear in CVPR 2024.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon Award</title>
       <link>https://www.math.ucla.edu/aivc/news/amazon_award/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/amazon_award/</guid>
-      <description>[2024-02-16] Professor Chenfanfu Jiang awarded 2023 Science Hub awards.</description>
+      <description>&lt;p&gt;&lt;strong&gt;[2024-02-16]&lt;/strong&gt; Professor Chenfanfu Jiang awarded &lt;a href=&#34;https://www.amazon.science/news-and-features/amazon-and-ucla-announce-2023-science-hub-awards&#34;&gt;2023 Science Hub awards&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023 Siggraph papers</title>
       <link>https://www.math.ucla.edu/aivc/news/sa2023/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/sa2023/</guid>
-      <description>[2023-10-04] We have 3 papers to appear in SIGGRAPH Asia 2023 Sydney.</description>
+      <description>&lt;p&gt;&lt;strong&gt;[2023-10-04]&lt;/strong&gt; We have 3 papers to appear in &lt;a href=&#34;https://asia.siggraph.org/2023/&#34; target=&#34;_blank&#34;&gt;SIGGRAPH Asia 2023 Sydney&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sony Award</title>
       <link>https://www.math.ucla.edu/aivc/news/sony/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/sony/</guid>
-      <description>[2023-09-15] Professor Chenfanfu Jiang awarded Sony Faculty Innovation Award.</description>
+      <description>&lt;p&gt;&lt;strong&gt;[2023-09-15]&lt;/strong&gt; &lt;a href=&#34;https://ww3.math.ucla.edu/professor-chenfanfu-jiang-awarded-sony-faculty-innovation-award/&#34;&gt;Professor Chenfanfu Jiang awarded Sony Faculty Innovation Award&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Minchen CMU</title>
       <link>https://www.math.ucla.edu/aivc/news/minchen_cmu/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/minchen_cmu/</guid>
-      <description>[2023-08-20] Congratulations to Minchen Li on joining CMU CSD as a Tenure-Track Assistant Professor!</description>
+      <description>&lt;p&gt;&lt;strong&gt;[2023-08-20]&lt;/strong&gt; Congratulations to &lt;a href=&#34;https://www.math.ucla.edu/~minchen/&#34;&gt;Minchen Li&lt;/a&gt; on joining &lt;a href=&#34;https://csd.cmu.edu/&#34;&gt;CMU CSD&lt;/a&gt; as a Tenure-Track Assistant Professor!&lt;/p&gt;</description>
     </item>
     <item>
       <title>sca2023</title>
       <link>https://www.math.ucla.edu/aivc/news/sca2023/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/sca2023/</guid>
-      <description>[2023-08-20] We successfully hosted the 22nd annual Symposium on Computer Animation (SCA) at UCLA!</description>
+      <description>&lt;p&gt;&lt;strong&gt;[2023-08-20]&lt;/strong&gt; We successfully hosted &lt;a href=&#34;http://computeranimation.org/&#34;&gt;the 22nd annual Symposium on Computer Animation (SCA)&lt;/a&gt; at UCLA!&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023 Siggraph papers</title>
       <link>https://www.math.ucla.edu/aivc/news/siggraph2023/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/siggraph2023/</guid>
-      <description>[2023-05-05] We have 4 papers to appear in SIGGRAPH 2023 LOS ANGELES.</description>
+      <description>&lt;p&gt;&lt;strong&gt;[2023-05-05]&lt;/strong&gt; We have 4 papers to appear in &lt;a href=&#34;https://s2023.siggraph.org/&#34; target=&#34;_blank&#34;&gt;SIGGRAPH 2023 LOS ANGELES&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://www.math.ucla.edu/aivc/news/siggraph2022/</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/siggraph2022/</guid>
-      <description>[2022-05-06] We have 6 papers to appear in SIGGRAPH 2022 VANCOUVER.</description>
+      <description>&lt;p&gt;&lt;strong&gt;[2022-05-06]&lt;/strong&gt; We have 6 papers to appear in &lt;a href=&#34;https://s2022.siggraph.org/&#34; target=&#34;_blank&#34;&gt;SIGGRAPH 2022 VANCOUVER&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>IDP CIPC Codebase Released</title>
       <link>https://www.math.ucla.edu/aivc/news/idp_cipc/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/idp_cipc/</guid>
-      <description>[2021-11-10] Our codebases for IDP and C-IPC are released: IDP-Code C-IPC-Code</description>
+      <description>&lt;p&gt;&lt;strong&gt;[2021-11-10]&lt;/strong&gt; Our codebases for &lt;a href=&#34;https://ipc-sim.github.io/IDP/&#34;&gt;IDP&lt;/a&gt; and &lt;a href=&#34;https://ipc-sim.github.io/C-IPC/&#34;&gt;C-IPC&lt;/a&gt; are released: &lt;a href=&#34;https://github.com/ipc-sim/IDP&#34;&gt;IDP-Code&lt;/a&gt; &lt;a href=&#34;https://github.com/ipc-sim/Codim-IPC&#34;&gt;C-IPC-Code&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2021 Outstanding Doctoral Dissertation Award</title>
       <link>https://www.math.ucla.edu/aivc/news/minchen_award/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/minchen_award/</guid>
-      <description>[2021-08-10] Minchen Li wins the ACM SIGGRAPH 2021 Outstanding Doctoral Dissertation Award.</description>
+      <description>&lt;p&gt;&lt;strong&gt;[2021-08-10]&lt;/strong&gt; &lt;a href=&#34;https://www.math.ucla.edu/~minchen/&#34;&gt;Minchen Li&lt;/a&gt; wins the &lt;a href=&#34;https://www.siggraph.org/2021-outstanding-doctoral-dissertation-award-minchen-li/&#34;&gt;ACM SIGGRAPH 2021 Outstanding Doctoral Dissertation Award&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ICRA Best Paper</title>
       <link>https://www.math.ucla.edu/aivc/news/icra_best_paper/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/icra_best_paper/</guid>
-      <description>[2021-06-04] Our paper Soft Hybrid Aerial Vehicle Via Bistable Mechanism wins the IEEE ICRA Best Paper Award on Mechanisms and Design.</description>
+      <description>&lt;p&gt;&lt;strong&gt;[2021-06-04]&lt;/strong&gt; Our paper &lt;a href=&#34;https://ieeexplore.ieee.org/document/9561434&#34;&gt;&lt;em&gt;Soft Hybrid Aerial Vehicle Via Bistable Mechanism&lt;/em&gt;&lt;/a&gt; wins the &lt;a href=&#34;https://www.ieee-ras.org/about-ras/latest-news/1874-icra-2021-award-recipients-honored&#34;&gt;IEEE ICRA Best Paper Award on Mechanisms and Design&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://www.math.ucla.edu/aivc/server/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/server/</guid>
-      <description> </description>
+      <description>&lt;head&gt;&#xA;    &lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; URL=http://142.171.90.4:3030/&#34;&gt;&#xA;&lt;/head&gt;</description>
     </item>
     <item>
       <title>UCLA Artificial Intelligence &amp; Visual Computing Laboratory</title>
       <link>https://www.math.ucla.edu/aivc/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/home/</guid>
-      <description> Our research focuses on the synergy between visual computing and artificial intelligence. We are dedicated to advancing technologies in the creation, representation, understanding, and optimization of digital 2D/3D content and intelligent robots. </description>
+      <description>&lt;div style=&#34;text-align: justify; font-size:14pt&#34;&gt;&#xA;Our research focuses on the synergy between visual computing and artificial intelligence. We are dedicated to advancing technologies in the creation, representation, understanding, and optimization of digital 2D/3D content and intelligent robots.&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
