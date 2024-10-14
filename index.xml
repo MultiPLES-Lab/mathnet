@@ -318,13 +318,6 @@
     </item>
     <item>
       <title>2023 Siggraph papers</title>
-      <link>https://www.math.ucla.edu/aivc/news/pacnerf/</link>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/pacnerf/</guid>
-      <description>&lt;!-- &#xA;**[2024-02-26]** We have 2 papers to appear in CVPR 2024. --&gt;&#xA;&lt;p&gt;&lt;strong&gt;[2023-05-01]&lt;/strong&gt; Our paper &lt;a href=&#34;https://sites.google.com/view/PAC-NeRF&#34;&gt;PAC-NeRF&lt;/a&gt; is accepted as ICLR Notable-Top-25%.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2023 Siggraph papers</title>
       <link>https://www.math.ucla.edu/aivc/news/physgs/</link>
       <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/physgs/</guid>
@@ -336,13 +329,6 @@
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/amazon_award/</guid>
       <description>&lt;p&gt;&lt;strong&gt;[2024-02-16]&lt;/strong&gt; Professor Chenfanfu Jiang awarded &lt;a href=&#34;https://www.amazon.science/news-and-features/amazon-and-ucla-announce-2023-science-hub-awards&#34;&gt;2023 Science Hub awards&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2023 Siggraph papers</title>
-      <link>https://www.math.ucla.edu/aivc/news/sa2023/</link>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/sa2023/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2023-10-04]&lt;/strong&gt; We have 3 papers to appear in &lt;a href=&#34;https://asia.siggraph.org/2023/&#34; target=&#34;_blank&#34;&gt;SIGGRAPH Asia 2023 Sydney&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sony Award</title>
@@ -366,6 +352,13 @@
       <description>&lt;p&gt;&lt;strong&gt;[2023-08-20]&lt;/strong&gt; We successfully hosted &lt;a href=&#34;http://computeranimation.org/&#34;&gt;the 22nd annual Symposium on Computer Animation (SCA)&lt;/a&gt; at UCLA!&lt;/p&gt;</description>
     </item>
     <item>
+      <title>2023 ICLR papers</title>
+      <link>https://www.math.ucla.edu/aivc/news/pacnerf/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/news/pacnerf/</guid>
+      <description>&lt;!-- &#xA;**[2024-02-26]** We have 2 papers to appear in CVPR 2024. --&gt;&#xA;&lt;p&gt;&lt;strong&gt;[2023-05-01]&lt;/strong&gt; Our paper &lt;a href=&#34;https://sites.google.com/view/PAC-NeRF&#34;&gt;PAC-NeRF&lt;/a&gt; is accepted as ICLR Notable-Top-25%.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>IDP CIPC Codebase Released</title>
       <link>https://www.math.ucla.edu/aivc/news/idp_cipc/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
@@ -385,6 +378,13 @@
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/icra_best_paper/</guid>
       <description>&lt;p&gt;&lt;strong&gt;[2021-06-04]&lt;/strong&gt; Our paper &lt;a href=&#34;https://ieeexplore.ieee.org/document/9561434&#34;&gt;&lt;em&gt;Soft Hybrid Aerial Vehicle Via Bistable Mechanism&lt;/em&gt;&lt;/a&gt; wins the &lt;a href=&#34;https://www.ieee-ras.org/about-ras/latest-news/1874-icra-2021-award-recipients-honored&#34;&gt;IEEE ICRA Best Paper Award on Mechanisms and Design&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.math.ucla.edu/aivc/news/sa2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/news/sa2023/</guid>
+      <description>&lt;!-- +++&#xA;title = &#34;2023 Siggraph papers&#34;&#xA;date = &#34;2023-10-04T00:00:00Z&#34;&#xA;+++&#xA;&#xA;**[2023-10-04]** We have 3 papers to appear in &lt;a href=&#34;https://asia.siggraph.org/2023/&#34; target=&#34;_blank&#34;&gt;SIGGRAPH Asia 2023 Sydney&lt;/a&gt;. --&gt;</description>
     </item>
     <item>
       <title></title>
