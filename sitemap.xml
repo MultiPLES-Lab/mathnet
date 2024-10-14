@@ -161,7 +161,10 @@
     <loc>https://www.math.ucla.edu/aivc/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.math.ucla.edu/aivc/news/cvpr2024/</loc>
+    <loc>https://www.math.ucla.edu/aivc/news/pacnerf/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/news/physgs/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.math.ucla.edu/aivc/news/</loc>
@@ -182,12 +185,6 @@
     <loc>https://www.math.ucla.edu/aivc/news/sca2023/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.math.ucla.edu/aivc/news/siggraph2023/</loc>
-    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/news/siggraph2022/</loc>
-    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.math.ucla.edu/aivc/news/idp_cipc/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -202,6 +199,10 @@
   </url><url>
     <loc>https://www.math.ucla.edu/aivc/research/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/news/siggraph2022/</loc>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/news/siggraph2023/</loc>
   </url><url>
     <loc>https://www.math.ucla.edu/aivc/people/faculty/</loc>
   </url><url>
