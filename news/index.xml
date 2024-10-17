@@ -6,12 +6,19 @@
     <description>Recent content in News on UCLA Artificial Intelligence &amp; Visual Computing Lab</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.math.ucla.edu/aivc/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2023 Siggraph papers</title>
+      <title>IROS Best Paper Finalist</title>
+      <link>https://www.math.ucla.edu/aivc/news/iros_finalist/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/news/iros_finalist/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[2024-10-14]&lt;/strong&gt; Our paper &lt;a href=&#34;https://arxiv.org/abs/2403.13783&#34;&gt;&lt;em&gt;A Convex Formulation of Frictional Contact for the Material Point Method and Rigid Bodies&lt;/em&gt;&lt;/a&gt; is recognized as the Finalist for IEEE IROS 2024 RoboCup Best Paper Award.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2024 CVPR papers</title>
       <link>https://www.math.ucla.edu/aivc/news/physgs/</link>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/physgs/</guid>
       <description>&lt;!-- &#xA;**[2024-02-26]** We have 2 papers to appear in CVPR 2024. --&gt;&#xA;&lt;p&gt;&lt;strong&gt;[2024-06-17]&lt;/strong&gt; Our paper &lt;a href=&#34;https://xpandora.github.io/PhysGaussian/&#34;&gt;PhysGaussian&lt;/a&gt; is accepted as CVPR highlight.&lt;/p&gt;</description>
     </item>
@@ -70,27 +77,6 @@
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/icra_best_paper/</guid>
       <description>&lt;p&gt;&lt;strong&gt;[2021-06-04]&lt;/strong&gt; Our paper &lt;a href=&#34;https://ieeexplore.ieee.org/document/9561434&#34;&gt;&lt;em&gt;Soft Hybrid Aerial Vehicle Via Bistable Mechanism&lt;/em&gt;&lt;/a&gt; wins the &lt;a href=&#34;https://www.ieee-ras.org/about-ras/latest-news/1874-icra-2021-award-recipients-honored&#34;&gt;IEEE ICRA Best Paper Award on Mechanisms and Design&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.math.ucla.edu/aivc/news/sa2023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/sa2023/</guid>
-      <description>&lt;!-- +++&#xA;title = &#34;2023 Siggraph papers&#34;&#xA;date = &#34;2023-10-04T00:00:00Z&#34;&#xA;+++&#xA;&#xA;**[2023-10-04]** We have 3 papers to appear in &lt;a href=&#34;https://asia.siggraph.org/2023/&#34; target=&#34;_blank&#34;&gt;SIGGRAPH Asia 2023 Sydney&lt;/a&gt;. --&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.math.ucla.edu/aivc/news/siggraph2022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/siggraph2022/</guid>
-      <description>&lt;!-- +++&#xA;title = &#34;&#34;&#xA;date = &#34;2022-05-06T00:00:00Z&#34;&#xA;+++&#xA;&#xA;**[2022-05-06]** We have 6 papers to appear in &lt;a href=&#34;https://s2022.siggraph.org/&#34; target=&#34;_blank&#34;&gt;SIGGRAPH 2022 VANCOUVER&lt;/a&gt;. --&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.math.ucla.edu/aivc/news/siggraph2023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/siggraph2023/</guid>
-      <description>&lt;!-- +++&#xA;title = &#34;2023 Siggraph papers&#34;&#xA;date = &#34;2023-05-05T00:00:00Z&#34;&#xA;+++&#xA;&#xA;**[2023-05-05]** We have 4 papers to appear in &lt;a href=&#34;https://s2023.siggraph.org/&#34; target=&#34;_blank&#34;&gt;SIGGRAPH 2023 LOS ANGELES&lt;/a&gt;. --&gt;</description>
     </item>
   </channel>
 </rss>
