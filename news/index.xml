@@ -20,7 +20,7 @@
       <link>https://www.math.ucla.edu/aivc/news/physgs/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/physgs/</guid>
-      <description>&lt;!-- &#xA;**[2024-02-26]** We have 2 papers to appear in CVPR 2024. --&gt;&#xA;&lt;p&gt;&lt;strong&gt;[2024-06-17]&lt;/strong&gt; Our paper &lt;a href=&#34;https://xpandora.github.io/PhysGaussian/&#34;&gt;PhysGaussian&lt;/a&gt; is accepted as CVPR highlight.&lt;/p&gt;</description>
+      <description>&lt;!-- &#xA;**[2024-02-26]** We have 2 papers to appear in CVPR 2024. --&gt;&#xA;&lt;p&gt;&lt;strong&gt;[2024-06-17]&lt;/strong&gt; Our paper &lt;a href=&#34;https://xpandora.github.io/PhysGaussian/&#34;&gt;&lt;em&gt;PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics&lt;/em&gt;&lt;/a&gt; is accepted as CVPR highlight.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon Award</title>
@@ -55,7 +55,7 @@
       <link>https://www.math.ucla.edu/aivc/news/pacnerf/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/news/pacnerf/</guid>
-      <description>&lt;!-- &#xA;**[2024-02-26]** We have 2 papers to appear in CVPR 2024. --&gt;&#xA;&lt;p&gt;&lt;strong&gt;[2023-05-01]&lt;/strong&gt; Our paper &lt;a href=&#34;https://sites.google.com/view/PAC-NeRF&#34;&gt;PAC-NeRF&lt;/a&gt; is accepted as ICLR Notable-Top-25%.&lt;/p&gt;</description>
+      <description>&lt;!-- &#xA;**[2024-02-26]** We have 2 papers to appear in CVPR 2024. --&gt;&#xA;&lt;p&gt;&lt;strong&gt;[2023-05-01]&lt;/strong&gt; Our paper &lt;a href=&#34;https://sites.google.com/view/PAC-NeRF&#34;&gt;&lt;em&gt;PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification&lt;/em&gt;&lt;/a&gt; is accepted as ICLR Notable-Top-25%.&lt;/p&gt;</description>
     </item>
     <item>
       <title>IDP CIPC Codebase Released</title>
