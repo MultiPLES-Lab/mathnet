@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/xiang/</loc>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.math.ucla.edu/aivc/people/_alumni_profiles/pingying/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -152,13 +155,19 @@
     <loc>https://www.math.ucla.edu/aivc/research/solid/geo/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/</loc>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/</loc>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/</loc>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.math.ucla.edu/aivc/news/arm/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.math.ucla.edu/aivc/news/</loc>
-    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.math.ucla.edu/aivc/news/changyu_award/</loc>
@@ -169,12 +178,6 @@
   </url><url>
     <loc>https://www.math.ucla.edu/aivc/news/physgs/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.math.ucla.edu/aivc/news/amazon_award/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
