@@ -6,8 +6,15 @@
     <description>Recent content in News on UCLA Artificial Intelligence &amp; Visual Computing Lab</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.math.ucla.edu/aivc/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 AAAI papers</title>
+      <link>https://www.math.ucla.edu/aivc/news/elastogen/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/news/elastogen/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[2025-11-07]&lt;/strong&gt; Our paper &lt;a href=&#34;https://anunrulybunny.github.io/elastogen/&#34;&gt;&lt;em&gt;ElastoGen: 4D Generative Elastodynamics&lt;/em&gt;&lt;/a&gt; is accepted as AAAI oral.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2026 IDRE Scholarship</title>
       <link>https://www.math.ucla.edu/aivc/news/jiayin_award/</link>
