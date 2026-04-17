@@ -2,55 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/xincheng/</loc>
-    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/chenqiyang/</loc>
-    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/huangyongchao/</loc>
-    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/jingkai/</loc>
-    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/xiaoying/</loc>
-    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/guoyu/</loc>
-    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/yusi/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/yanjia/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/evelyn/</loc>
-    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/taozeng/</loc>
-    <lastmod>2025-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/faith/</loc>
-    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.math.ucla.edu/aivc/people/current/yuqi/</loc>
     <lastmod>2025-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/yuxin/</loc>
-    <lastmod>2025-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/mucheng/</loc>
-    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/peihang/</loc>
-    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.math.ucla.edu/aivc/people/current/shanmei/</loc>
-    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+    <loc>https://www.math.ucla.edu/aivc/people/current/yanjia/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.math.ucla.edu/aivc/people/current/yumeng/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/yuxin/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/taozeng/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.math.ucla.edu/aivc/people/current/xiang/</loc>
@@ -135,6 +99,42 @@
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.math.ucla.edu/aivc/people/faculty/fanfu/</loc>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/xincheng/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/chenqiyang/</loc>
+    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/huangyongchao/</loc>
+    <lastmod>2026-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/jingkai/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/xiaoying/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/guoyu/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/yusi/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/evelyn/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/faith/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/mucheng/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/peihang/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.ucla.edu/aivc/people/current/shanmei/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.math.ucla.edu/aivc/research/fluid/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>

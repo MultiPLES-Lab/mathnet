@@ -9,83 +9,6 @@
     <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.math.ucla.edu/aivc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Xincheng He</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/xincheng/</link>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/xincheng/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Qiyang(Rosie) Chen</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/chenqiyang/</link>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/chenqiyang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yongchao Huang</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/huangyongchao/</link>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/huangyongchao/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jingkai Shi</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/jingkai/</link>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/jingkai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Xiaoying Wang</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/xiaoying/</link>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/xiaoying/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yu Guo</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/guoyu/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/guoyu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yusi Sun</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/yusi/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/yusi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yanjia Huang</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/yanjia/</link>
-      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/yanjia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Evelyn Zhu</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/evelyn/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/evelyn/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Zeng Tao</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/taozeng/</link>
-      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/taozeng/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Faith Luo</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/faith/</link>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/faith/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Yuqi Liang</title>
       <link>https://www.math.ucla.edu/aivc/people/current/yuqi/</link>
       <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
@@ -93,31 +16,10 @@
       <description></description>
     </item>
     <item>
-      <title>Yuxin Jiang</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/yuxin/</link>
-      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/yuxin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mucheng Zhu</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/mucheng/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/mucheng/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Peihang Lin</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/peihang/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/peihang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shanmei Wanyan</title>
-      <link>https://www.math.ucla.edu/aivc/people/current/shanmei/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/current/shanmei/</guid>
+      <title>Yanjia Huang</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/yanjia/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/yanjia/</guid>
       <description></description>
     </item>
     <item>
@@ -125,6 +27,20 @@
       <link>https://www.math.ucla.edu/aivc/people/current/yumeng/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/people/current/yumeng/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yuxin Jiang</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/yuxin/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/yuxin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zeng Tao</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/taozeng/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/taozeng/</guid>
       <description></description>
     </item>
     <item>
@@ -314,6 +230,90 @@
       <link>https://www.math.ucla.edu/aivc/people/faculty/fanfu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/people/faculty/fanfu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xincheng He</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/xincheng/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/xincheng/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qiyang(Rosie) Chen</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/chenqiyang/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/chenqiyang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yongchao Huang</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/huangyongchao/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/huangyongchao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jingkai Shi</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/jingkai/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/jingkai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xiaoying Wang</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/xiaoying/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/xiaoying/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yu Guo</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/guoyu/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/guoyu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yusi Sun</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/yusi/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/yusi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evelyn Zhu</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/evelyn/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/evelyn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Faith Luo</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/faith/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/faith/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mucheng Zhu</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/mucheng/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/mucheng/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peihang Lin</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/peihang/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/peihang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shanmei Wanyan</title>
+      <link>https://www.math.ucla.edu/aivc/people/current/shanmei/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/current/shanmei/</guid>
       <description></description>
     </item>
     <item>
