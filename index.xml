@@ -345,20 +345,6 @@
       <description>this is summary written in .md</description>
     </item>
     <item>
-      <title>Jiayin Lu</title>
-      <link>https://www.math.ucla.edu/aivc/people/faculty/jiayin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/faculty/jiayin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ying Jiang</title>
-      <link>https://www.math.ucla.edu/aivc/people/faculty/ying/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/faculty/ying/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Yunuo Chen</title>
       <link>https://www.math.ucla.edu/aivc/people/faculty/yunuo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -387,6 +373,13 @@
       <description>this is summary written in .md</description>
     </item>
     <item>
+      <title>Jiayin Lu</title>
+      <link>https://www.math.ucla.edu/aivc/people/faculty/jiayin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/faculty/jiayin/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Computer Vision</title>
       <link>https://www.math.ucla.edu/aivc/research/ai_robotics/cv/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
@@ -399,6 +392,13 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://www.math.ucla.edu/aivc/research/solid/reduced/</guid>
       <description>this is summary written in .md</description>
+    </item>
+    <item>
+      <title>Ying Jiang</title>
+      <link>https://www.math.ucla.edu/aivc/people/faculty/ying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.math.ucla.edu/aivc/people/faculty/ying/</guid>
+      <description></description>
     </item>
     <item>
       <title>Animal Simulation</title>
