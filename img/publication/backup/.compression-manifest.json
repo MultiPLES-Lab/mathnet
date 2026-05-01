@@ -119,6 +119,10 @@
     "backup_sha256": "ac70bb46bb495eda0de862996b63844a5a80f286ddef2dfe755d93615e51119b",
     "output_sha256": "9308fc3a6670b96e898dab63048944c68e8d1d76a54665c3787399715991e474"
   },
+  "feng2026mpmlite.jpg": {
+    "backup_sha256": "170067a3360dab1937cdbf48244d40f46467bb0dd5baf9701400cb51a5151931",
+    "output_sha256": "7ad10df619230a5831b7d6192d1ee5b1b90f9c9ee236b49c0faa7fad8bdb6144"
+  },
   "ferguson2021rigid.jpg": {
     "backup_sha256": "3ca9823bc09cbc30d67736a4e5496a56c8da6646a3f939f91daab311db21a515",
     "output_sha256": "fd322122e68ab748e319baaa0e32ad8ad43afd4c3754fa0657abe4c3d007f8cd"
@@ -159,6 +163,14 @@
     "backup_sha256": "bf9089eb3e23a9107feefdec5c06c35322a808ee75e166d2af7f515edf508757",
     "output_sha256": "3c9e0f7d710f9fbd7ac5fde150a80b772e5c62471dfa6e16de7fb50fcb9805a1"
   },
+  "guo2026jgs2gq.jpg": {
+    "backup_sha256": "9bab37a29bc230ddd4be061ea219eb55b825491ca2ac86777ef4c1863b9dcd3b",
+    "output_sha256": "533f698d9fe6b1bb992ad46d79101e6112611813b854b59d547b9c6b8ef0317e"
+  },
+  "guo2026subspace.jpg": {
+    "backup_sha256": "fb627c28353902d77d6b4ba3582a24daaae0749b1ed4bc14d779a88d67ef25c0",
+    "output_sha256": "a1eaffcd31cf8dd6605372d0a26bc4e342dfeabd95edaa8cb8351dd8b5bc5b7b"
+  },
   "han2019friction.jpg": {
     "backup_sha256": "a67bdade37f3c6dc90e429a6698a7e613e9296c8057c3101a52ad87b80b38561",
     "output_sha256": "47cc7e9dd2ed4d466b7191cce04c161009699435cfccc3d6c633d4bb126b3145"
@@ -166,6 +178,10 @@
   "he2025spark.jpg": {
     "backup_sha256": "24c84aadbde42d177d12d864fd3aca14897628000ce374d1e4864050484f27f9",
     "output_sha256": "caa2046d9d0c0b5ea3c247620b4d42bed76e904d28052a2a5fab8e8bafae8c07"
+  },
+  "he2026mabd.jpg": {
+    "backup_sha256": "0c8f9f90b8b6ffa0e6c269a52c534b22e15be94727eec955d750489ab9aaed16",
+    "output_sha256": "32f86a6c435fd853040be416d6ab3052043d1dfc7b6a812b42db181c49731cff"
   },
   "hegemann2013fracture.jpg": {
     "backup_sha256": "650374e50112451613940f795a9a412bc28328e8e236a694092aacccfde425d5",
@@ -602,6 +618,10 @@
   "yuan2024metahomo.jpg": {
     "backup_sha256": "ec6a21b5223c2c778244e00c1c7d2a64eb3a0527ce9d0803e058d466ec992fc3",
     "output_sha256": "df2c6b14135a94ce608e2bdef6774633c44e5a012079e27aea3d95fb621363ec"
+  },
+  "yuan2026yarn.jpg": {
+    "backup_sha256": "c258a264d2934a8e91535884799a4af0e8a61dfe9adcf18c481cd7fbac40ded9",
+    "output_sha256": "a5e730f16c55077a787a6a673b9d171c042206ad5b9dd353a66762fb64b20b9e"
   },
   "zhao2022circumventing.jpg": {
     "backup_sha256": "e422a9c6196ff9c7b92adc584d6d59ab2de2cc5bbbab81d293a6349d4ba28dd2",
