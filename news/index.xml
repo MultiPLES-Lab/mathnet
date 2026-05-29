@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.math.ucla.edu/aivc/news/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>TRI 3.0</title>
+				<link>https://www.math.ucla.edu/aivc/news/tri3/</link>
+				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/tri3/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2026-05-27]&lt;/strong&gt; &lt;a href=&#34;https://ww3.math.ucla.edu/professor-chenfanfu-jiang-collaborates-with-toyota-research-institute/&#34;&gt;Professor Chenfanfu Jiang Collaborates with Toyota Research Institute for URP 3.0&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>2026 SCA Doctoral Dissertation Award</title>
 				<link>https://www.math.ucla.edu/aivc/news/xuan_sca/</link>
