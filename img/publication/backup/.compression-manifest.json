@@ -635,6 +635,10 @@
     "backup_sha256": "000dd5693dc991458b7ad75698ee4ce9848bfe896c6f3ac7a24dd01beeba3af2",
     "output_sha256": "d2bf89d3e6bed511b7bda581991966f7c8dfac4dd12a31252169cb5961070512"
   },
+  "zhao2026sparsempm.jpg": {
+    "backup_sha256": "349cbaa8f1a9ef4fa66927181eb400140a00d8cc14225657ee4e8c3bfda53da9",
+    "output_sha256": "35db8e32ac0b88f5ae42b9cd86bff3cc36259f206fff9bb85cbb712bbd9c29cb"
+  },
   "zhu2016force.jpg": {
     "backup_sha256": "131aa725ae925b59c7b9d1c223e5cdfd000b64b4bf1bedcee09dd2ca8c39a5e4",
     "output_sha256": "ae15fc66722a6f1a9cfdb7bc86b6c531e736376001e9c84ebaee105431201d1b"

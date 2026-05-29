@@ -1,96 +1,101 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>People on UCLA Artificial Intelligence &amp; Visual Computing Lab</title>
-    <link>https://www.math.ucla.edu/aivc/people/</link>
-    <description>Recent content in People on UCLA Artificial Intelligence &amp; Visual Computing Lab</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.math.ucla.edu/aivc/people/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pingying Chen</title>
-      <link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/pingying/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/pingying/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wenxin Du</title>
-      <link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/wenxin/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/wenxin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Xiyang Tan</title>
-      <link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/xiyang/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/xiyang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Boqian Li</title>
-      <link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/boqian/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/boqian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yidong Zhao</title>
-      <link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yidong/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yidong/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tianyi Xie</title>
-      <link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/tianyi/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/tianyi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yadi Cao</title>
-      <link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yadi/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yadi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Zeshun Zong</title>
-      <link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/zeshun/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/zeshun/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Xuan Li</title>
-      <link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/xuan/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/xuan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yuxing Qiu</title>
-      <link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yuxing/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yuxing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ziyin Qu</title>
-      <link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/ziyin/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/ziyin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yu Fang</title>
-      <link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yufang/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yufang/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>People on UCLA Artificial Intelligence &amp; Visual Computing Lab</title>
+		<link>https://www.math.ucla.edu/aivc/people/</link>
+		<description>Recent content in People on UCLA Artificial Intelligence &amp; Visual Computing Lab</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.math.ucla.edu/aivc/people/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Pingying Chen</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/pingying/</link>
+				<pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/pingying/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Wenxin Du</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/wenxin/</link>
+				<pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/wenxin/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Xiyang Tan</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/xiyang/</link>
+				<pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/xiyang/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Boqian Li</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/boqian/</link>
+				<pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/boqian/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Yidong Zhao</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yidong/</link>
+				<pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yidong/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tianyi Xie</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/tianyi/</link>
+				<pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/tianyi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Yadi Cao</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yadi/</link>
+				<pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yadi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Zeshun Zong</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/zeshun/</link>
+				<pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/zeshun/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Xuan Li</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/xuan/</link>
+				<pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/xuan/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Yuxing Qiu</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yuxing/</link>
+				<pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yuxing/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ziyin Qu</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/ziyin/</link>
+				<pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/ziyin/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Yu Fang</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yufang/</link>
+				<pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yufang/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

@@ -1,145 +1,150 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>News on UCLA Artificial Intelligence &amp; Visual Computing Lab</title>
-    <link>https://www.math.ucla.edu/aivc/news/</link>
-    <description>Recent content in News on UCLA Artificial Intelligence &amp; Visual Computing Lab</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.math.ucla.edu/aivc/news/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2026 SCA Doctoral Dissertation Award</title>
-      <link>https://www.math.ucla.edu/aivc/news/xuan_sca/</link>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/xuan_sca/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2026-05-21]&lt;/strong&gt; &lt;a href=&#34;https://xuan-li.github.io/&#34;&gt;Xuan Li&lt;/a&gt; wins &lt;a href=&#34;https://computeranimation.org/awards.html&#34;&gt;SCA 2026 Doctoral Dissertation Award&lt;/a&gt; Honorable mention.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2026 UCLA Math Graduate Student Spotlight</title>
-      <link>https://www.math.ucla.edu/aivc/news/yunuo_gss/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/yunuo_gss/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2026-05-18]&lt;/strong&gt; &lt;a href=&#34;https://yunuoch.github.io/&#34;&gt;Yunuo Chen&lt;/a&gt; is featured in UCLA Math &lt;a href=&#34;https://ww3.math.ucla.edu/graduate-student-spotlight-yunuo-chen/&#34;&gt;Graduate Student Spotlight&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2026 UCLA CS Outstanding Graduate Student Research Award</title>
-      <link>https://www.math.ucla.edu/aivc/news/tianyi_award/</link>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/tianyi_award/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2026-04-21]&lt;/strong&gt; &lt;a href=&#34;https://xpandora.github.io/&#34;&gt;Tianyi Xie&lt;/a&gt; wins the UCLA CS Outstanding Graduate Student Research Award.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2026 CVPR papers</title>
-      <link>https://www.math.ucla.edu/aivc/news/spark/</link>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/spark/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2026-04-09]&lt;/strong&gt; Our paper &lt;a href=&#34;https://heyumeng.com/SPARK-web/&#34;&gt;&lt;em&gt;SPARK: Sim-ready Part-level Articulated Reconstruction with VLM Knowledge&lt;/em&gt;&lt;/a&gt; is accepted as CVPR oral.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2025 AAAI papers</title>
-      <link>https://www.math.ucla.edu/aivc/news/elastogen/</link>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/elastogen/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2025-11-07]&lt;/strong&gt; Our paper &lt;a href=&#34;https://anunrulybunny.github.io/elastogen/&#34;&gt;&lt;em&gt;ElastoGen: 4D Generative Elastodynamics&lt;/em&gt;&lt;/a&gt; is accepted as AAAI oral.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2026 IDRE Scholarship</title>
-      <link>https://www.math.ucla.edu/aivc/news/jiayin_award/</link>
-      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/jiayin_award/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2025-10-10]&lt;/strong&gt; &lt;a href=&#34;https://jlu227.wixsite.com/kay-lu&#34;&gt;Jiayin Lu&lt;/a&gt; wins the &lt;a href=&#34;https://idre.ucla.edu/idre-funding&#34;&gt;Institute for Digital Research and Education (IDRE) Postdoctoral Fellowships&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2025 NeurIPS papers</title>
-      <link>https://www.math.ucla.edu/aivc/news/taccel/</link>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/taccel/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2025-09-18]&lt;/strong&gt; Our paper &lt;a href=&#34;https://taccel-simulator.github.io/&#34;&gt;&lt;em&gt;Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation&lt;/em&gt;&lt;/a&gt; is accepted as NeurIPS spotlight.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2025 CVPR papers</title>
-      <link>https://www.math.ucla.edu/aivc/news/arm/</link>
-      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/arm/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2025-04-04]&lt;/strong&gt; Our paper &lt;a href=&#34;https://arm-aigc.github.io/&#34;&gt;&lt;em&gt;ARM: Appearance Reconstruction Model for Relightable 3D Generation&lt;/em&gt;&lt;/a&gt; is accepted as CVPR highlight.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2025 Meshy AI Scholarship</title>
-      <link>https://www.math.ucla.edu/aivc/news/changyu_award/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/changyu_award/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2025-02-28]&lt;/strong&gt; &lt;a href=&#34;https://changyu.io/&#34;&gt;Chang Yu&lt;/a&gt; wins the &lt;a href=&#34;https://www.meshy.ai/blog/fellowship-2025&#34;&gt;Meshy AI Scholarship&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>IROS Best Paper Finalist</title>
-      <link>https://www.math.ucla.edu/aivc/news/iros_finalist/</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/iros_finalist/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2024-10-14]&lt;/strong&gt; Our paper &lt;a href=&#34;https://arxiv.org/abs/2403.13783&#34;&gt;&lt;em&gt;A Convex Formulation of Frictional Contact for the Material Point Method and Rigid Bodies&lt;/em&gt;&lt;/a&gt; is recognized as &lt;a href=&#34;https://ww3.math.ucla.edu/professor-chenfanfu-jiangs-collaboration-with-toyota-research-institute-recognized-as-finalist-for-iros-2024-robocup-best-paper-award/&#34;&gt;a Finalist for IEEE IROS 2024 RoboCup Best Paper Award&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2024 CVPR papers</title>
-      <link>https://www.math.ucla.edu/aivc/news/physgs/</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/physgs/</guid>
-      <description>&lt;!-- &#xA;**[2024-02-26]** We have 2 papers to appear in CVPR 2024. --&gt;&#xA;&lt;p&gt;&lt;strong&gt;[2024-06-17]&lt;/strong&gt; Our paper &lt;a href=&#34;https://xpandora.github.io/PhysGaussian/&#34;&gt;&lt;em&gt;PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics&lt;/em&gt;&lt;/a&gt; is accepted as CVPR highlight.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amazon Award</title>
-      <link>https://www.math.ucla.edu/aivc/news/amazon_award/</link>
-      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/amazon_award/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2024-02-16]&lt;/strong&gt; Professor Chenfanfu Jiang awarded &lt;a href=&#34;https://www.amazon.science/news-and-features/amazon-and-ucla-announce-2023-science-hub-awards&#34;&gt;2023 Science Hub awards&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sony Award</title>
-      <link>https://www.math.ucla.edu/aivc/news/sony/</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/sony/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2023-09-15]&lt;/strong&gt; &lt;a href=&#34;https://ww3.math.ucla.edu/professor-chenfanfu-jiang-awarded-sony-faculty-innovation-award/&#34;&gt;Professor Chenfanfu Jiang awarded Sony Faculty Innovation Award&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Minchen CMU</title>
-      <link>https://www.math.ucla.edu/aivc/news/minchen_cmu/</link>
-      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/minchen_cmu/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2023-08-20]&lt;/strong&gt; Congratulations to &lt;a href=&#34;https://www.math.ucla.edu/~minchen/&#34;&gt;Minchen Li&lt;/a&gt; on joining &lt;a href=&#34;https://csd.cmu.edu/&#34;&gt;CMU CSD&lt;/a&gt; as a Tenure-Track Assistant Professor!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>sca2023</title>
-      <link>https://www.math.ucla.edu/aivc/news/sca2023/</link>
-      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/sca2023/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2023-08-20]&lt;/strong&gt; We successfully hosted &lt;a href=&#34;http://computeranimation.org/&#34;&gt;the 22nd annual Symposium on Computer Animation (SCA)&lt;/a&gt; at UCLA!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2023 ICLR papers</title>
-      <link>https://www.math.ucla.edu/aivc/news/pacnerf/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/pacnerf/</guid>
-      <description>&lt;!-- &#xA;**[2024-02-26]** We have 2 papers to appear in CVPR 2024. --&gt;&#xA;&lt;p&gt;&lt;strong&gt;[2023-05-01]&lt;/strong&gt; Our paper &lt;a href=&#34;https://sites.google.com/view/PAC-NeRF&#34;&gt;&lt;em&gt;PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification&lt;/em&gt;&lt;/a&gt; is accepted as ICLR Notable-Top-25%.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>IDP CIPC Codebase Released</title>
-      <link>https://www.math.ucla.edu/aivc/news/idp_cipc/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/idp_cipc/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2021-11-10]&lt;/strong&gt; Our codebases for &lt;a href=&#34;https://ipc-sim.github.io/IDP/&#34;&gt;IDP&lt;/a&gt; and &lt;a href=&#34;https://ipc-sim.github.io/C-IPC/&#34;&gt;C-IPC&lt;/a&gt; are released: &lt;a href=&#34;https://github.com/ipc-sim/IDP&#34;&gt;IDP-Code&lt;/a&gt; &lt;a href=&#34;https://github.com/ipc-sim/Codim-IPC&#34;&gt;C-IPC-Code&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2021 Outstanding Doctoral Dissertation Award</title>
-      <link>https://www.math.ucla.edu/aivc/news/minchen_award/</link>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/minchen_award/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2021-08-10]&lt;/strong&gt; &lt;a href=&#34;https://www.math.ucla.edu/~minchen/&#34;&gt;Minchen Li&lt;/a&gt; wins the &lt;a href=&#34;https://www.siggraph.org/2021-outstanding-doctoral-dissertation-award-minchen-li/&#34;&gt;ACM SIGGRAPH 2021 Outstanding Doctoral Dissertation Award&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ICRA Best Paper</title>
-      <link>https://www.math.ucla.edu/aivc/news/icra_best_paper/</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.math.ucla.edu/aivc/news/icra_best_paper/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[2021-06-04]&lt;/strong&gt; Our paper &lt;a href=&#34;https://ieeexplore.ieee.org/document/9561434&#34;&gt;&lt;em&gt;Soft Hybrid Aerial Vehicle Via Bistable Mechanism&lt;/em&gt;&lt;/a&gt; wins the &lt;a href=&#34;https://www.ieee-ras.org/about-ras/latest-news/1874-icra-2021-award-recipients-honored&#34;&gt;IEEE ICRA Best Paper Award on Mechanisms and Design&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>News on UCLA Artificial Intelligence &amp; Visual Computing Lab</title>
+		<link>https://www.math.ucla.edu/aivc/news/</link>
+		<description>Recent content in News on UCLA Artificial Intelligence &amp; Visual Computing Lab</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.math.ucla.edu/aivc/news/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>2026 SCA Doctoral Dissertation Award</title>
+				<link>https://www.math.ucla.edu/aivc/news/xuan_sca/</link>
+				<pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/xuan_sca/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2026-05-21]&lt;/strong&gt; &lt;a href=&#34;https://xuan-li.github.io/&#34;&gt;Xuan Li&lt;/a&gt; wins &lt;a href=&#34;https://computeranimation.org/awards.html&#34;&gt;SCA 2026 Doctoral Dissertation Award&lt;/a&gt; Honorable mention.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2026 UCLA Math Graduate Student Spotlight</title>
+				<link>https://www.math.ucla.edu/aivc/news/yunuo_gss/</link>
+				<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/yunuo_gss/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2026-05-18]&lt;/strong&gt; &lt;a href=&#34;https://yunuoch.github.io/&#34;&gt;Yunuo Chen&lt;/a&gt; is featured in UCLA Math &lt;a href=&#34;https://ww3.math.ucla.edu/graduate-student-spotlight-yunuo-chen/&#34;&gt;Graduate Student Spotlight&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2026 UCLA CS Outstanding Graduate Student Research Award</title>
+				<link>https://www.math.ucla.edu/aivc/news/tianyi_award/</link>
+				<pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/tianyi_award/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2026-04-21]&lt;/strong&gt; &lt;a href=&#34;https://xpandora.github.io/&#34;&gt;Tianyi Xie&lt;/a&gt; wins the UCLA CS Outstanding Graduate Student Research Award.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2026 CVPR papers</title>
+				<link>https://www.math.ucla.edu/aivc/news/spark/</link>
+				<pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/spark/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2026-04-09]&lt;/strong&gt; Our paper &lt;a href=&#34;https://heyumeng.com/SPARK-web/&#34;&gt;&lt;em&gt;SPARK: Sim-ready Part-level Articulated Reconstruction with VLM Knowledge&lt;/em&gt;&lt;/a&gt; is accepted as CVPR oral.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 AAAI papers</title>
+				<link>https://www.math.ucla.edu/aivc/news/elastogen/</link>
+				<pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/elastogen/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2025-11-07]&lt;/strong&gt; Our paper &lt;a href=&#34;https://anunrulybunny.github.io/elastogen/&#34;&gt;&lt;em&gt;ElastoGen: 4D Generative Elastodynamics&lt;/em&gt;&lt;/a&gt; is accepted as AAAI oral.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2026 IDRE Scholarship</title>
+				<link>https://www.math.ucla.edu/aivc/news/jiayin_award/</link>
+				<pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/jiayin_award/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2025-10-10]&lt;/strong&gt; &lt;a href=&#34;https://jlu227.wixsite.com/kay-lu&#34;&gt;Jiayin Lu&lt;/a&gt; wins the &lt;a href=&#34;https://idre.ucla.edu/idre-funding&#34;&gt;Institute for Digital Research and Education (IDRE) Postdoctoral Fellowships&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 NeurIPS papers</title>
+				<link>https://www.math.ucla.edu/aivc/news/taccel/</link>
+				<pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/taccel/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2025-09-18]&lt;/strong&gt; Our paper &lt;a href=&#34;https://taccel-simulator.github.io/&#34;&gt;&lt;em&gt;Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation&lt;/em&gt;&lt;/a&gt; is accepted as NeurIPS spotlight.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 CVPR papers</title>
+				<link>https://www.math.ucla.edu/aivc/news/arm/</link>
+				<pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/arm/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2025-04-04]&lt;/strong&gt; Our paper &lt;a href=&#34;https://arm-aigc.github.io/&#34;&gt;&lt;em&gt;ARM: Appearance Reconstruction Model for Relightable 3D Generation&lt;/em&gt;&lt;/a&gt; is accepted as CVPR highlight.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 Meshy AI Scholarship</title>
+				<link>https://www.math.ucla.edu/aivc/news/changyu_award/</link>
+				<pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/changyu_award/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2025-02-28]&lt;/strong&gt; &lt;a href=&#34;https://changyu.io/&#34;&gt;Chang Yu&lt;/a&gt; wins the &lt;a href=&#34;https://www.meshy.ai/blog/fellowship-2025&#34;&gt;Meshy AI Scholarship&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IROS Best Paper Finalist</title>
+				<link>https://www.math.ucla.edu/aivc/news/iros_finalist/</link>
+				<pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/iros_finalist/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2024-10-14]&lt;/strong&gt; Our paper &lt;a href=&#34;https://arxiv.org/abs/2403.13783&#34;&gt;&lt;em&gt;A Convex Formulation of Frictional Contact for the Material Point Method and Rigid Bodies&lt;/em&gt;&lt;/a&gt; is recognized as &lt;a href=&#34;https://ww3.math.ucla.edu/professor-chenfanfu-jiangs-collaboration-with-toyota-research-institute-recognized-as-finalist-for-iros-2024-robocup-best-paper-award/&#34;&gt;a Finalist for IEEE IROS 2024 RoboCup Best Paper Award&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 CVPR papers</title>
+				<link>https://www.math.ucla.edu/aivc/news/physgs/</link>
+				<pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/physgs/</guid>
+				<description>&lt;!-- &#xA;**[2024-02-26]** We have 2 papers to appear in CVPR 2024. --&gt;&#xA;&lt;p&gt;&lt;strong&gt;[2024-06-17]&lt;/strong&gt; Our paper &lt;a href=&#34;https://xpandora.github.io/PhysGaussian/&#34;&gt;&lt;em&gt;PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics&lt;/em&gt;&lt;/a&gt; is accepted as CVPR highlight.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Amazon Award</title>
+				<link>https://www.math.ucla.edu/aivc/news/amazon_award/</link>
+				<pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/amazon_award/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2024-02-16]&lt;/strong&gt; Professor Chenfanfu Jiang awarded &lt;a href=&#34;https://www.amazon.science/news-and-features/amazon-and-ucla-announce-2023-science-hub-awards&#34;&gt;2023 Science Hub awards&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sony Award</title>
+				<link>https://www.math.ucla.edu/aivc/news/sony/</link>
+				<pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/sony/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2023-09-15]&lt;/strong&gt; &lt;a href=&#34;https://ww3.math.ucla.edu/professor-chenfanfu-jiang-awarded-sony-faculty-innovation-award/&#34;&gt;Professor Chenfanfu Jiang awarded Sony Faculty Innovation Award&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Minchen CMU</title>
+				<link>https://www.math.ucla.edu/aivc/news/minchen_cmu/</link>
+				<pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/minchen_cmu/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2023-08-20]&lt;/strong&gt; Congratulations to &lt;a href=&#34;https://www.math.ucla.edu/~minchen/&#34;&gt;Minchen Li&lt;/a&gt; on joining &lt;a href=&#34;https://csd.cmu.edu/&#34;&gt;CMU CSD&lt;/a&gt; as a Tenure-Track Assistant Professor!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>sca2023</title>
+				<link>https://www.math.ucla.edu/aivc/news/sca2023/</link>
+				<pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/sca2023/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2023-08-20]&lt;/strong&gt; We successfully hosted &lt;a href=&#34;http://computeranimation.org/&#34;&gt;the 22nd annual Symposium on Computer Animation (SCA)&lt;/a&gt; at UCLA!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2023 ICLR papers</title>
+				<link>https://www.math.ucla.edu/aivc/news/pacnerf/</link>
+				<pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/pacnerf/</guid>
+				<description>&lt;!-- &#xA;**[2024-02-26]** We have 2 papers to appear in CVPR 2024. --&gt;&#xA;&lt;p&gt;&lt;strong&gt;[2023-05-01]&lt;/strong&gt; Our paper &lt;a href=&#34;https://sites.google.com/view/PAC-NeRF&#34;&gt;&lt;em&gt;PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification&lt;/em&gt;&lt;/a&gt; is accepted as ICLR Notable-Top-25%.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IDP CIPC Codebase Released</title>
+				<link>https://www.math.ucla.edu/aivc/news/idp_cipc/</link>
+				<pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/idp_cipc/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2021-11-10]&lt;/strong&gt; Our codebases for &lt;a href=&#34;https://ipc-sim.github.io/IDP/&#34;&gt;IDP&lt;/a&gt; and &lt;a href=&#34;https://ipc-sim.github.io/C-IPC/&#34;&gt;C-IPC&lt;/a&gt; are released: &lt;a href=&#34;https://github.com/ipc-sim/IDP&#34;&gt;IDP-Code&lt;/a&gt; &lt;a href=&#34;https://github.com/ipc-sim/Codim-IPC&#34;&gt;C-IPC-Code&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2021 Outstanding Doctoral Dissertation Award</title>
+				<link>https://www.math.ucla.edu/aivc/news/minchen_award/</link>
+				<pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/minchen_award/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2021-08-10]&lt;/strong&gt; &lt;a href=&#34;https://www.math.ucla.edu/~minchen/&#34;&gt;Minchen Li&lt;/a&gt; wins the &lt;a href=&#34;https://www.siggraph.org/2021-outstanding-doctoral-dissertation-award-minchen-li/&#34;&gt;ACM SIGGRAPH 2021 Outstanding Doctoral Dissertation Award&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ICRA Best Paper</title>
+				<link>https://www.math.ucla.edu/aivc/news/icra_best_paper/</link>
+				<pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/icra_best_paper/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2021-06-04]&lt;/strong&gt; Our paper &lt;a href=&#34;https://ieeexplore.ieee.org/document/9561434&#34;&gt;&lt;em&gt;Soft Hybrid Aerial Vehicle Via Bistable Mechanism&lt;/em&gt;&lt;/a&gt; wins the &lt;a href=&#34;https://www.ieee-ras.org/about-ras/latest-news/1874-icra-2021-award-recipients-honored&#34;&gt;IEEE ICRA Best Paper Award on Mechanisms and Design&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
