@@ -591,6 +591,10 @@
     "backup_sha256": "3f589ef40300385346d97ea06c7d16e05b41868f6ca13959c128ab62af7bae35",
     "output_sha256": "3867c01bbbfdd7c045f7a750b8a344453a0063a079fa0bcbcb9994af4049a9b8"
   },
+  "xie2026grail.jpg": {
+    "backup_sha256": "84441d460096132d3196bae61c57ed5ff363bb7b8e84370876bf55bc5b952797",
+    "output_sha256": "d09b9d5915ba14938c73f512a0f2aabdbe2f8fc1e586b17bdb83ed28756cd8c9"
+  },
   "xue2020diffusion.jpg": {
     "backup_sha256": "c784a2f3c14ba19ed9b29fcec9da54d3697531d3f27c4cde8de38e89fc15d266",
     "output_sha256": "19999e53bf79e8bfa69ba6d49d23f8b414f64f5f9df870291c5fe5412b0d8c07"
