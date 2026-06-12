@@ -55,6 +55,10 @@
     "backup_sha256": "703cbacdedfbb98ad1f1500089731d53b5433ebcba7e5d002194e354ee633d01",
     "output_sha256": "038bbf972d603b311fcb088211f27df1b2432aa8f15093c57cfbdef65c6fd3d2"
   },
+  "chen2026sapwarp.jpg": {
+    "backup_sha256": "b0b276ea33cf57e0b53bed4c7b68fd9ebdcd0f51c7cddf8b00c4529b20fec281",
+    "output_sha256": "14e9bc53ad0e09cfae0d0fbf197f4e67b43dacd8308508b9c9acc7e002e379d7"
+  },
   "chong2017injury.jpg": {
     "backup_sha256": "3d9d3aaf8d0bf1c39a1877dd3076b86afd4d52ddd2ff8d73d79a7d9ced0d3b6f",
     "output_sha256": "0b6ba60321ce2eb341f76cc5e9f936f077fc7e345c9da84a30c27379c5dc39a4"
