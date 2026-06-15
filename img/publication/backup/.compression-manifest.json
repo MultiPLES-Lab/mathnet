@@ -171,6 +171,10 @@
     "backup_sha256": "9bab37a29bc230ddd4be061ea219eb55b825491ca2ac86777ef4c1863b9dcd3b",
     "output_sha256": "533f698d9fe6b1bb992ad46d79101e6112611813b854b59d547b9c6b8ef0317e"
   },
+  "guo2026sparse2act.png": {
+    "backup_sha256": "339167bf7b82911d2f22000082f93ee36b6b1c78df9ca6ec7b6ec251e2e1a2ad",
+    "output_sha256": "e56513526c66570e0b041fb1c43c3013f366ec69059f456caaaa8718e1a3682c"
+  },
   "guo2026subspace.jpg": {
     "backup_sha256": "fb627c28353902d77d6b4ba3582a24daaae0749b1ed4bc14d779a88d67ef25c0",
     "output_sha256": "a1eaffcd31cf8dd6605372d0a26bc4e342dfeabd95edaa8cb8351dd8b5bc5b7b"
@@ -435,6 +439,10 @@
     "backup_sha256": "1219edec95733ee9ca576534a179b9f7de03eecb3967aedb75e75b6913b863f6",
     "output_sha256": "068db4a6654a833234054ad306b89fd4eea83d2cebf778b8989f0077d555aad2"
   },
+  "ma2026taccorl.png": {
+    "backup_sha256": "5a932e25b8ac99ce3fe098b12295f51f0453f675ca58494b6cab1d6634fa33b8",
+    "output_sha256": "cb7c74301145eba16072435b26600524700ed1305e09e688e7d6fae1350ee3a4"
+  },
   "peng2024xslam.jpg": {
     "backup_sha256": "c7c2b18eb5ff1ebefa33c9d0d469606a07bec54809c7be50b8c5ed67254207a1",
     "output_sha256": "a627f8965335bb349cbde1ed82223faf54cf9f9a4f6963fcd519f55671403afa"
@@ -624,8 +632,8 @@
     "output_sha256": "0b4013358b7d5fa5e049f364ea4f8d372e45356b9d0d66f2039c4f77dcc62859"
   },
   "yu2025rightsideout.jpg": {
-    "backup_sha256": "1bf182d2c6f822fdee8ee885d771af5bad0671841d6e178f95a4ad49fd4780de",
-    "output_sha256": "95c4e1779dd4bf08cfc409f7a88e025398555c43e5df4b33e8bbabd6721d3018"
+    "backup_sha256": "187de7077b5937335e06d95dc53d7c1a1b8f42fd2a807447e11a06a2f248d0c3",
+    "output_sha256": "e480442b97898694c08d353a8927ab9260bc020365af964bc93e62d24c8960ef"
   },
   "yuan2024metahomo.jpg": {
     "backup_sha256": "ec6a21b5223c2c778244e00c1c7d2a64eb3a0527ce9d0803e058d466ec992fc3",
