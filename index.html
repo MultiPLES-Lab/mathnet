@@ -20,8 +20,13 @@
  
 <title> UCLA Artificial Intelligence &amp; Visual Computing Lab</title>
 <script>
-        $(document).ready(function(){
-            $('[data-toggle="popover"]').popover();   
+        document.addEventListener('DOMContentLoaded', function () {
+            if (!window.bootstrap || !window.bootstrap.Popover) return;
+
+            var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'));
+            popoverTriggerList.forEach(function (popoverTriggerEl) {
+                new bootstrap.Popover(popoverTriggerEl);
+            });
         });
 </script>
 </head>
@@ -109,6 +114,8 @@ Our research focuses on the synergy between visual computing and artificial inte
 
 
 
+
+
 <div style="margin-left: 20px; margin-right:20px">
     
         <div style = "text-align: cennter; margin-left: 20px; margin-right: 20px; margin-top: -10px; margin-bottom:-10px">
@@ -161,7 +168,73 @@ Our research focuses on the synergy between visual computing and artificial inte
 
         </div>
     
-    </div>
+    
+        <details class="news-previous-items">
+            <summary class="news-toggle" aria-label="Show previous news">...</summary>
+            
+                <div style = "text-align: cennter; margin-left: 20px; margin-right: 20px; margin-top: -10px; margin-bottom:-10px">
+                    <p><strong>[2025-02-28]</strong> <a href="https://changyu.io/">Chang Yu</a> wins the <a href="https://www.meshy.ai/blog/fellowship-2025">Meshy AI Scholarship</a>.</p>
+
+                </div>
+            
+                <div style = "text-align: cennter; margin-left: 20px; margin-right: 20px; margin-top: -10px; margin-bottom:-10px">
+                    <p><strong>[2024-10-14]</strong> Our paper <a href="https://arxiv.org/abs/2403.13783"><em>A Convex Formulation of Frictional Contact for the Material Point Method and Rigid Bodies</em></a> is recognized as <a href="https://ww3.math.ucla.edu/professor-chenfanfu-jiangs-collaboration-with-toyota-research-institute-recognized-as-finalist-for-iros-2024-robocup-best-paper-award/">a Finalist for IEEE IROS 2024 RoboCup Best Paper Award</a>.</p>
+
+                </div>
+            
+                <div style = "text-align: cennter; margin-left: 20px; margin-right: 20px; margin-top: -10px; margin-bottom:-10px">
+                    <!-- 
+**[2024-02-26]** We have 2 papers to appear in CVPR 2024. -->
+<p><strong>[2024-06-17]</strong> Our paper <a href="https://xpandora.github.io/PhysGaussian/"><em>PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics</em></a> is accepted as CVPR highlight.</p>
+
+                </div>
+            
+                <div style = "text-align: cennter; margin-left: 20px; margin-right: 20px; margin-top: -10px; margin-bottom:-10px">
+                    <p><strong>[2024-02-16]</strong> Professor Chenfanfu Jiang awarded <a href="https://www.amazon.science/news-and-features/amazon-and-ucla-announce-2023-science-hub-awards">2023 Science Hub awards</a>.</p>
+
+                </div>
+            
+                <div style = "text-align: cennter; margin-left: 20px; margin-right: 20px; margin-top: -10px; margin-bottom:-10px">
+                    <p><strong>[2023-09-15]</strong> <a href="https://ww3.math.ucla.edu/professor-chenfanfu-jiang-awarded-sony-faculty-innovation-award/">Professor Chenfanfu Jiang awarded Sony Faculty Innovation Award</a>.</p>
+
+                </div>
+            
+                <div style = "text-align: cennter; margin-left: 20px; margin-right: 20px; margin-top: -10px; margin-bottom:-10px">
+                    <p><strong>[2023-08-20]</strong> We successfully hosted <a href="http://computeranimation.org/">the 22nd annual Symposium on Computer Animation (SCA)</a> at UCLA!</p>
+
+                </div>
+            
+                <div style = "text-align: cennter; margin-left: 20px; margin-right: 20px; margin-top: -10px; margin-bottom:-10px">
+                    <p><strong>[2023-08-20]</strong> Congratulations to <a href="https://www.math.ucla.edu/~minchen/">Minchen Li</a> on joining <a href="https://csd.cmu.edu/">CMU CSD</a> as a Tenure-Track Assistant Professor!</p>
+
+                </div>
+            
+                <div style = "text-align: cennter; margin-left: 20px; margin-right: 20px; margin-top: -10px; margin-bottom:-10px">
+                    <!-- 
+**[2024-02-26]** We have 2 papers to appear in CVPR 2024. -->
+<p><strong>[2023-05-01]</strong> Our paper <a href="https://sites.google.com/view/PAC-NeRF"><em>PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification</em></a> is accepted as ICLR Notable-Top-25%.</p>
+
+                </div>
+            
+                <div style = "text-align: cennter; margin-left: 20px; margin-right: 20px; margin-top: -10px; margin-bottom:-10px">
+                    <p><strong>[2021-11-10]</strong> Our codebases for <a href="https://ipc-sim.github.io/IDP/">IDP</a> and <a href="https://ipc-sim.github.io/C-IPC/">C-IPC</a> are released: <a href="https://github.com/ipc-sim/IDP">IDP-Code</a> <a href="https://github.com/ipc-sim/Codim-IPC">C-IPC-Code</a></p>
+
+                </div>
+            
+                <div style = "text-align: cennter; margin-left: 20px; margin-right: 20px; margin-top: -10px; margin-bottom:-10px">
+                    <p><strong>[2021-08-10]</strong> <a href="https://www.math.ucla.edu/~minchen/">Minchen Li</a> wins the <a href="https://www.siggraph.org/2021-outstanding-doctoral-dissertation-award-minchen-li/">ACM SIGGRAPH 2021 Outstanding Doctoral Dissertation Award</a>.</p>
+
+                </div>
+            
+                <div style = "text-align: cennter; margin-left: 20px; margin-right: 20px; margin-top: -10px; margin-bottom:-10px">
+                    <p><strong>[2021-06-04]</strong> Our paper <a href="https://ieeexplore.ieee.org/document/9561434"><em>Soft Hybrid Aerial Vehicle Via Bistable Mechanism</em></a> wins the <a href="https://www.ieee-ras.org/about-ras/latest-news/1874-icra-2021-award-recipients-honored">IEEE ICRA Best Paper Award on Mechanisms and Design</a>.</p>
+
+                </div>
+            
+        </details>
+    
+</div>
+
 
 </div>
 

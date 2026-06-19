@@ -243,6 +243,33 @@ img.dark {
   margin:0;
 }
 
+.news-previous-items {
+  margin: 0;
+}
+
+.news-toggle {
+  color: #2774ae;
+  cursor: pointer;
+  display: block;
+  font-size: 20pt;
+  line-height: 1;
+  list-style: none;
+  margin: 6px 20px 16px;
+  text-align: left;
+}
+
+.news-toggle:hover {
+  color: #003b5c;
+}
+
+.news-toggle::-webkit-details-marker {
+  display: none;
+}
+
+.news-toggle::marker {
+  content: "";
+}
+
 /* Banner */
 .overlap img {
   object-fit:contain;
