@@ -10,7 +10,7 @@
 		
 		
 		
-			<lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.math.ucla.edu/aivc/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -460,6 +460,13 @@
 				<pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
 				<guid>https://www.math.ucla.edu/aivc/research/solid/geo/</guid>
 				<description>this is summary written in .md</description>
+			</item>
+			<item>
+				<title>SPARK CVPR Compute Transparency Champion</title>
+				<link>https://www.math.ucla.edu/aivc/news/spark_champion/</link>
+				<pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/spark_champion/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2026-06-07]&lt;/strong&gt; Our paper &lt;a href=&#34;https://heyumeng.com/SPARK-web/&#34;&gt;&lt;em&gt;SPARK: Sim-ready Part-level Articulated Reconstruction with VLM Knowledge&lt;/em&gt;&lt;/a&gt; wins the CVPR 2026 Compute Transparency Champion Award!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>TRI 3.0</title>
