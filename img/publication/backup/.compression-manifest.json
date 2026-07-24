@@ -187,6 +187,10 @@
     "backup_sha256": "24c84aadbde42d177d12d864fd3aca14897628000ce374d1e4864050484f27f9",
     "output_sha256": "caa2046d9d0c0b5ea3c247620b4d42bed76e904d28052a2a5fab8e8bafae8c07"
   },
+  "he2026fishbone.png": {
+    "backup_sha256": "cc2300113ca893cd56e90f3206beb37c1c99bef2ad5c8351228dec4484e1be3e",
+    "output_sha256": "0ad112d1ba895a46a3e6d27813ee0f5e243620be6eb45845d552ed9337ff4c3f"
+  },
   "he2026mabd.jpg": {
     "backup_sha256": "0c8f9f90b8b6ffa0e6c269a52c534b22e15be94727eec955d750489ab9aaed16",
     "output_sha256": "32f86a6c435fd853040be416d6ab3052043d1dfc7b6a812b42db181c49731cff"
