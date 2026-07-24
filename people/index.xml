@@ -10,7 +10,7 @@
 		
 		
 		
-			<lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.math.ucla.edu/aivc/people/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -95,6 +95,13 @@
 				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yufang/</link>
 				<pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
 				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yufang/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jingkai Shi</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/jingkai/</link>
+				<pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/jingkai/</guid>
 				<description></description>
 			</item>
 	</channel>
