@@ -51,6 +51,10 @@
     "backup_sha256": "8e604303a5551711e1343c111643fdf47d9f45e77f71df3c3590a0b1f6b83e47",
     "output_sha256": "0ae10ac8f201b956f60b32ce128aeb8be3b5b7eb60ff4a8f3a6b84d067e9b4a8"
   },
+  "chen2026agenticreal2sim.jpg": {
+    "backup_sha256": "b95ce58f37abd12a8201d37b3a37919b5522e7d93ca36e703d2088624b0d34bc",
+    "output_sha256": "53a7ee4da8af24bca3f7eb8e9071315bc06049759bb8a91cfde8e164e8d4470f"
+  },
   "chen2026empm.jpg": {
     "backup_sha256": "703cbacdedfbb98ad1f1500089731d53b5433ebcba7e5d002194e354ee633d01",
     "output_sha256": "038bbf972d603b311fcb088211f27df1b2432aa8f15093c57cfbdef65c6fd3d2"
