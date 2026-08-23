@@ -499,6 +499,10 @@
     "backup_sha256": "7ba1c462cffcfa06c17309243f33a6af745e9356c551c5b0053e36c752b1da44",
     "output_sha256": "0561a361a906927bbf7b298778ef0d685f27ccd0501c49502536ef79a7fc1053"
   },
+  "rayyan2026fetchman.jpg": {
+    "backup_sha256": "5f129fc25d2e9d66b2d2effa2723307ec20746c17433d65c2529a677686d6c37",
+    "output_sha256": "f94ce886457fe22f118772b90ab351de86f8dfd99ef26d01b8e00a89b8f37f0b"
+  },
   "shen2021encoder.jpg": {
     "backup_sha256": "578dab731db2a636f15c52ab04dddac4a7fce53ef64fe0c2b96722441f81da2c",
     "output_sha256": "e993ef0eedf8cb6bbe4d47e6f67c146f5fecc512299943a1523dcd0524349238"
