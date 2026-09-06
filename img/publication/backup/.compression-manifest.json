@@ -579,6 +579,10 @@
     "backup_sha256": "52f5c2f9ff974ac2c3504a6e1bd41a9ac1330d63a4841773472f380ead617cc1",
     "output_sha256": "b25bc1f7f739732fde50355863e86d18cb0ef7ead5181871489d69df14d628ca"
   },
+  "wang2026sun.jpg": {
+    "backup_sha256": "2048ecff5e5d4cd854f7a4dff3b1f34b6ae0b12321cd75c6dd827281a0db600f",
+    "output_sha256": "8579193c5c7a1d234b46376ac8361583dbaee265da6f8e6269bab29a71c00ff3"
+  },
   "weiss2017crowd.jpg": {
     "backup_sha256": "0e585295b0f2b8ab4e31b525a29b220c5f12e6df1c59177ddbaa0ec61d13f767",
     "output_sha256": "83c367602b96aa0c765b4c15e5d23886a20e56e6321344c7c0b6906998b260fd"
@@ -638,6 +642,10 @@
   "yao2025cfsum.jpg": {
     "backup_sha256": "a37d1cb570e6a1077a6d1b04bad1a31828eec39fe7560e27ef6ead9850226ece",
     "output_sha256": "956c71dd528325a393a84d39757c655bb09ec60084ecc890591f7575473cf89a"
+  },
+  "ye2026projectiveabd.jpg": {
+    "backup_sha256": "0da9fcd3561210e620520a660b92e14f9c013b521a7535eecd6c6323496164f6",
+    "output_sha256": "e941bbfdd60b6a76d2753282ef7a46928ddb84ec9ead34319ce8177b00c71701"
   },
   "yi2022tailored2.jpg": {
     "backup_sha256": "40c381ae70a9d4edaa03e3ba5078e70601cc650ab44be4310f8012954a77b251",
