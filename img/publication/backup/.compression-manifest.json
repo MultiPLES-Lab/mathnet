@@ -527,6 +527,10 @@
     "backup_sha256": "a2f13439c1a6c0c11cfdc8d28ccf78849cb55cfaf33e4a09881f82aad4a471a9",
     "output_sha256": "ae6e5195f2559e9557211426fc7e7a30d16fe113c86388e9b2a3d2099cb3eae8"
   },
+  "shu2026reversesweep.jpg": {
+    "backup_sha256": "e122b0a27685dfb90ca3d107130163766d50c247fe41180aad5b07b7a4fa054a",
+    "output_sha256": "3fe736486b7d4cf5a0ef235ff07590df02202133db86c1c798b4723b860ebe8a"
+  },
   "stomakhin2014melt.jpg": {
     "backup_sha256": "857ce3774900c4a1f7c76adce20d69eb96e13c8de714da6137d70ade05a5ca43",
     "output_sha256": "bd0e8d23ab7adebb0be0e2188a90bfb4f761d2850f08178ffe91f3de35697774"
