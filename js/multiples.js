@@ -23,6 +23,55 @@ function normalizeFilterText(value) {
   return (value || '').toString().toLowerCase().replace(/\s+/g, ' ').trim();
 }
 
+// Resolve deep links after layout and skip the site's long smooth scroll,
+// which can otherwise traverse many screens of publications on mobile.
+function revealLinkedPublication() {
+  var id;
+  try {
+    id = decodeURIComponent(window.location.hash.slice(1));
+  } catch (error) {
+    return;
+  }
+  var target = id && document.getElementById(id);
+  if (!target || !target.classList.contains('publication-entry')) return;
+
+  window.requestAnimationFrame(function() {
+    target.scrollIntoView({ block: 'start', behavior: 'instant' });
+    target.focus({ preventScroll: true });
+  });
+}
+
+window.addEventListener('load', revealLinkedPublication);
+window.addEventListener('hashchange', revealLinkedPublication);
+
+document.querySelectorAll('.research-grid').forEach(function(grid) {
+  var more = grid.querySelector('.research-grid-more');
+  if (!more) return;
+  more.hidden = !grid.querySelector('.research-thumbnail[hidden]');
+
+  more.addEventListener('click', function() {
+    var expanded = more.getAttribute('aria-expanded') !== 'true';
+    grid.classList.toggle('is-expanded', expanded);
+    grid.querySelectorAll('.research-thumbnails').forEach(function(topic) {
+      var section = topic.closest('.research-topic');
+      var expandedOnly = section.hasAttribute('data-expanded-only');
+      section.hidden = expandedOnly && !expanded;
+      topic.querySelectorAll('.research-thumbnail').forEach(function(thumbnail, index) {
+        thumbnail.hidden = !expanded && (expandedOnly || index >= 9);
+      });
+    });
+    more.setAttribute('aria-expanded', String(expanded));
+    more.setAttribute('aria-label', expanded ? 'Show fewer research publications' : 'Show all research publications');
+    more.textContent = expanded ? 'Show less' : '...';
+    grid.querySelector('.research-grid-status').textContent = expanded
+      ? 'All ' + grid.querySelectorAll('.research-thumbnail').length + ' papers shown in full-width topic sections.'
+      : 'Showing nine publications per topic.';
+    // Keep the new layout in view and keyboard navigation at its beginning.
+    grid.querySelector('.research-thumbnail').focus({ preventScroll: true });
+    grid.scrollIntoView({ block: 'start', behavior: 'instant' });
+  });
+});
+
 function itemHasFilterValue(item, filterText) {
   var needle = normalizeFilterText(filterText);
   var values = item.values();
