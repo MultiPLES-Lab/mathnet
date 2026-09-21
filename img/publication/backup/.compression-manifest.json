@@ -451,6 +451,10 @@
     "backup_sha256": "26f5876b756c766fac03e79ddf7e6001b88e836bf15cb647a790005f2a0e66d0",
     "output_sha256": "4e558da6955b8d5eb531989707b77bd16c863b35b28d258dec82c958764c74db"
   },
+  "lu2026haircs.jpg": {
+    "backup_sha256": "7a2a8dc01ecde66072b9086731d99a017eeeb752a1f409cc09f3763703840db4",
+    "output_sha256": "418386cf3bbe221f3bca204e676c77a2906dc1dbf1579effa007abbf3ca7aed2"
+  },
   "ma2025grip.jpg": {
     "backup_sha256": "1219edec95733ee9ca576534a179b9f7de03eecb3967aedb75e75b6913b863f6",
     "output_sha256": "068db4a6654a833234054ad306b89fd4eea83d2cebf778b8989f0077d555aad2"
