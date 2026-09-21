@@ -10,7 +10,7 @@
 		
 		
 		
-			<lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.math.ucla.edu/aivc/people/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -98,10 +98,31 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Zhanyu Yang</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/zhanyu/</link>
+				<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/zhanyu/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Qiyang(Rosie) Chen</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/chenqiyang/</link>
+				<pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/chenqiyang/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Jingkai Shi</title>
 				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/jingkai/</link>
 				<pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
 				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/jingkai/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Yusi Sun</title>
+				<link>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yusi/</link>
+				<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/_alumni_profiles/yusi/</guid>
 				<description></description>
 			</item>
 	</channel>
