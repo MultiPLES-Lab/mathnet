@@ -63,6 +63,10 @@
     "backup_sha256": "b0b276ea33cf57e0b53bed4c7b68fd9ebdcd0f51c7cddf8b00c4529b20fec281",
     "output_sha256": "14e9bc53ad0e09cfae0d0fbf197f4e67b43dacd8308508b9c9acc7e002e379d7"
   },
+  "chen2026stringart.jpg": {
+    "backup_sha256": "92abdc165a0acdf65270bbcdb7fc55341c89487ea43256e1bc306d2673896878",
+    "output_sha256": "5f55b6b14dbfdf471c50f43043e6e909e1c70e9fb01fcfb01890801bbe27fd69"
+  },
   "chong2017injury.jpg": {
     "backup_sha256": "3d9d3aaf8d0bf1c39a1877dd3076b86afd4d52ddd2ff8d73d79a7d9ced0d3b6f",
     "output_sha256": "0b6ba60321ce2eb341f76cc5e9f936f077fc7e345c9da84a30c27379c5dc39a4"
@@ -174,6 +178,10 @@
   "guo2026jgs2gq.jpg": {
     "backup_sha256": "9bab37a29bc230ddd4be061ea219eb55b825491ca2ac86777ef4c1863b9dcd3b",
     "output_sha256": "533f698d9fe6b1bb992ad46d79101e6112611813b854b59d547b9c6b8ef0317e"
+  },
+  "guo2026pdgq.jpg": {
+    "backup_sha256": "e3d3017733ea8fefa0783770fbe83ace54192d4019887812367fdbca5f5656e0",
+    "output_sha256": "79d48b817a3e35a3bb2f5406421c1f89af9ef91f662e7c2a052db33cb366af0f"
   },
   "guo2026roboedit.jpg": {
     "backup_sha256": "aabd6429ee672a9f8e5fce154a4c6260f22095d676c1a5f6b7199c14f92208c2",
@@ -530,6 +538,10 @@
   "shen2025locomotiongs.jpg": {
     "backup_sha256": "a2f13439c1a6c0c11cfdc8d28ccf78849cb55cfaf33e4a09881f82aad4a471a9",
     "output_sha256": "ae6e5195f2559e9557211426fc7e7a30d16fe113c86388e9b2a3d2099cb3eae8"
+  },
+  "shi2026vabd.jpg": {
+    "backup_sha256": "bec10af476a5b12dad2ff267eb0ad3269f788c782f94a25a313cd3fc8c32cf8b",
+    "output_sha256": "19b17fcab0034b589b1eb2ca21a143e82ef8e4c2a76e8aa40ad261881a3427a7"
   },
   "shu2026reversesweep.jpg": {
     "backup_sha256": "e122b0a27685dfb90ca3d107130163766d50c247fe41180aad5b07b7a4fa054a",
