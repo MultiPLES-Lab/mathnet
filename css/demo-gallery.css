@@ -14,6 +14,11 @@
 .demo-grid--3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .demo-grid--4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 
+/* Five clips form a row of three followed by a balanced pair. */
+.demo-grid--3.demo-grid--count-5 { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+.demo-grid--3.demo-grid--count-5 > .demo-clip { grid-column: span 2; }
+.demo-grid--3.demo-grid--count-5 > .demo-clip:nth-last-child(-n + 2) { grid-column: span 3; }
+
 .demo-clip {
   position: relative;
   display: block;
@@ -131,6 +136,9 @@
 @media (max-width: 600px) {
   .demo-main { --demo-gap: 10px; padding: 34px 12px 48px; }
   .demo-grid--3, .demo-grid--4, #particles .demo-grid--4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .demo-grid--3.demo-grid--count-5 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .demo-grid--3.demo-grid--count-5 > .demo-clip:nth-child(n) { grid-column: span 1; }
+  .demo-grid--3.demo-grid--count-5 > .demo-clip:last-child { grid-column: span 2; }
   .demo-grid--featured { grid-template-columns: 1fr; }
   .demo-group + .demo-group { margin-top: 36px; }
   .demo-expand { width: 30px; height: 30px; padding: 7px; right: 8px; bottom: 8px; }
