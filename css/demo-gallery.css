@@ -1,0 +1,148 @@
+.demo-page { background: #fff; }
+
+.demo-main {
+  --demo-gap: 20px;
+  width: min(100%, 1328px);
+  margin: 0 auto;
+  padding: 48px 24px 80px;
+}
+
+.demo-group + .demo-group { margin-top: 64px; }
+.demo-grid { display: grid; gap: var(--demo-gap); }
+.demo-grid + .demo-grid { margin-top: var(--demo-gap); }
+.demo-grid--2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.demo-grid--3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.demo-grid--4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+
+.demo-clip {
+  position: relative;
+  display: block;
+  min-width: 0;
+  aspect-ratio: 17 / 15;
+  overflow: hidden;
+  background: #f2f5f5 !important;
+  isolation: isolate;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.demo-clip video {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  pointer-events: none;
+}
+
+.demo-expand, .demo-icon-button {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  border: 1px solid #ffffff40;
+  border-radius: 50%;
+  color: #fff;
+  background: #20272ddd;
+}
+
+.demo-expand svg, .demo-icon-button svg {
+  width: 100%;
+  height: 100%;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.demo-expand {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  opacity: 0;
+  transform: translateY(3px);
+  transition: opacity 160ms ease, transform 160ms ease;
+  pointer-events: none;
+}
+
+.demo-clip:hover .demo-expand, .demo-clip:focus-visible .demo-expand {
+  opacity: 1;
+  transform: none;
+}
+
+.demo-clip:focus-visible, .demo-icon-button:focus-visible {
+  outline: 3px solid #2774ae;
+  outline-offset: 4px;
+}
+
+.demo-icon-button { cursor: pointer; transition: background 160ms ease; }
+.demo-icon-button:hover { background: #2774ae; }
+.demo-icon-button[hidden] { display: none; }
+.demo-motion {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 30;
+  box-shadow: 0 2px 12px #0002;
+}
+.demo-motion .demo-play-icon { display: none; }
+.demo-motion[aria-pressed="true"] .demo-pause-icon { display: none; }
+.demo-motion[aria-pressed="true"] .demo-play-icon { display: block; }
+
+.demo-viewer {
+  width: min(1120px, calc(100vw - 112px));
+  max-width: none;
+  max-height: calc(100dvh - 48px);
+  padding: 0;
+  border: 0;
+  overflow: visible;
+  color: #fff;
+  background: transparent;
+}
+.demo-viewer::backdrop { background: #0d141bef; }
+.demo-viewer-frame { position: relative; }
+.demo-viewer-video {
+  display: block;
+  width: 100%;
+  height: min(82dvh, 880px);
+  object-fit: contain;
+  background: #111820;
+}
+.demo-close, .demo-previous, .demo-next { position: absolute; z-index: 1; }
+.demo-close { right: 10px; top: 10px; }
+.demo-previous { left: -48px; top: calc(50% - 20px); }
+.demo-next { right: -48px; top: calc(50% - 20px); }
+.demo-error {
+  position: absolute;
+  inset: 45% 20px auto;
+  padding: 20px;
+  text-align: center;
+  background: #111820;
+}
+.demo-error a { color: #85c9ff; }
+.demo-page.viewer-open { overflow: hidden; }
+
+@media (max-width: 991px) {
+  .demo-main { --demo-gap: 14px; padding-inline: 20px; }
+  .demo-grid--4 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  #particles .demo-grid--4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .demo-group + .demo-group { margin-top: 48px; }
+}
+@media (max-width: 600px) {
+  .demo-main { --demo-gap: 10px; padding: 34px 12px 48px; }
+  .demo-grid--3, .demo-grid--4, #particles .demo-grid--4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .demo-grid--featured { grid-template-columns: 1fr; }
+  .demo-group + .demo-group { margin-top: 36px; }
+  .demo-expand { width: 30px; height: 30px; padding: 7px; right: 8px; bottom: 8px; }
+  .demo-motion { right: 16px; bottom: 16px; }
+  .demo-viewer { width: calc(100vw - 24px); }
+  .demo-viewer-video { height: 76dvh; }
+  .demo-previous { left: 10px; top: auto; bottom: 64px; }
+  .demo-next { right: 10px; top: auto; bottom: 64px; }
+}
+@media (hover: none) {
+  .demo-expand { opacity: 0.8; transform: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .demo-expand, .demo-icon-button { transition: none; }
+}
