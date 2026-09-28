@@ -28,6 +28,12 @@
 .demo-group { scroll-margin-top: 88px; }
 .demo-group:target::before { content: none; }
 
+/* A 9:10 simulation panel and a 16:9 comparison share one height. */
+.demo-group--contact .demo-grid--2 {
+  grid-template-columns: minmax(0, 81fr) minmax(0, 160fr);
+  align-items: start;
+}
+
 .demo-clip {
   position: relative;
   display: block;
@@ -151,6 +157,7 @@
   .demo-grid--3.demo-grid--count-5 > .demo-clip:last-child { grid-column: span 2; }
   .demo-group--comparison .demo-grid--3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .demo-group--comparison .demo-grid--3 > .demo-clip:last-child { grid-column: 1 / -1; }
+  .demo-group--contact .demo-grid--2 { grid-template-columns: minmax(0, 1fr); }
   .demo-grid--featured { grid-template-columns: 1fr; }
   .demo-group + .demo-group { margin-top: 36px; }
   .demo-expand { width: 30px; height: 30px; padding: 7px; right: 8px; bottom: 8px; }
