@@ -81,6 +81,8 @@
     error.hidden = true;
     player.pause();
     player.poster = videos[selected].poster;
+    player.width = videos[selected].width;
+    player.height = videos[selected].height;
     player.setAttribute('aria-label', clip.dataset.label);
     player.src = clip.href;
     player.muted = true;
