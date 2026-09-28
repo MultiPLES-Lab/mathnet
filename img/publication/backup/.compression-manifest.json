@@ -663,6 +663,10 @@
     "backup_sha256": "409168f509d0678fc9dff2dc388c918473e0ef10a67ff5cf28c69417746cbcf2",
     "output_sha256": "5ac38ee3c685045dfec23ba24965491f72c0481f86145aeee24164bcde41e58a"
   },
+  "yang2026blademaster.jpg": {
+    "backup_sha256": "e92f3d9e1c087fa9302e77cef66378de05bda5b4eab2002ab22aa59226ecce02",
+    "output_sha256": "16a052c76a46e493bfb67045a9eb7ec8db2d2780b2fc08a844f190a5fb7aa12a"
+  },
   "yao2025cfsum.jpg": {
     "backup_sha256": "a37d1cb570e6a1077a6d1b04bad1a31828eec39fe7560e27ef6ead9850226ece",
     "output_sha256": "956c71dd528325a393a84d39757c655bb09ec60084ecc890591f7575473cf89a"
