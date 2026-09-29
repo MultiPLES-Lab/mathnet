@@ -603,6 +603,10 @@
     "backup_sha256": "2048ecff5e5d4cd854f7a4dff3b1f34b6ae0b12321cd75c6dd827281a0db600f",
     "output_sha256": "8579193c5c7a1d234b46376ac8361583dbaee265da6f8e6269bab29a71c00ff3"
   },
+  "wang2026worldagent.jpg": {
+    "backup_sha256": "f87616de97449271605d12306958edd3e35fffe4ffffefc8d8949b20bbf64126",
+    "output_sha256": "a9291401b6df9bda30a20bd0dfb4a3f1a7fd3953028e5ffa44e3ec938d40fddc"
+  },
   "wang2026worldparticle.jpg": {
     "backup_sha256": "52a992b5033181c107bf89fc0381481ee6bce3135e18644e9ef4edad9e870df8",
     "output_sha256": "5c301ffc52633dfd426c629a7d11891a37fc0d0738f8cadc8aaf2f84b51b035b"
