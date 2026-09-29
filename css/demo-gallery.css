@@ -159,6 +159,7 @@
   .demo-group--comparison .demo-grid--3 > .demo-clip:last-child { grid-column: 1 / -1; }
   .demo-group--contact .demo-grid--2 { grid-template-columns: minmax(0, 1fr); }
   .demo-grid--featured { grid-template-columns: 1fr; }
+  #robotics .demo-grid--featured { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .demo-group + .demo-group { margin-top: 36px; }
   .demo-expand { width: 30px; height: 30px; padding: 7px; right: 8px; bottom: 8px; }
   .demo-motion { right: 16px; bottom: 16px; }
