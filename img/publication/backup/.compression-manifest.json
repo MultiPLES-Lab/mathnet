@@ -215,6 +215,10 @@
     "backup_sha256": "0c8f9f90b8b6ffa0e6c269a52c534b22e15be94727eec955d750489ab9aaed16",
     "output_sha256": "32f86a6c435fd853040be416d6ab3052043d1dfc7b6a812b42db181c49731cff"
   },
+  "he2026skill2real.jpg": {
+    "backup_sha256": "35883fa3bb28ff37d53bce67fd4cc037f260fbc2ccd1338a1a6f52c674aa8e45",
+    "output_sha256": "2ac213cc31caf9a51cf68af01119a35bb7b0404a6df9ae44a9225f489b840c63"
+  },
   "hegemann2013fracture.jpg": {
     "backup_sha256": "650374e50112451613940f795a9a412bc28328e8e236a694092aacccfde425d5",
     "output_sha256": "da947d034d3b3ff7ab34d3286487039c85175c38933dbe752edd69e5530ba5dc"
