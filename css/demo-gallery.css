@@ -34,6 +34,12 @@
   align-items: start;
 }
 
+/* Preserve both native frames while aligning the shuffle and cloth heights. */
+.demo-group--shuffle .demo-grid--2 {
+  grid-template-columns: minmax(0, 480fr) minmax(0, 289fr);
+  align-items: start;
+}
+
 .demo-clip {
   position: relative;
   display: block;
