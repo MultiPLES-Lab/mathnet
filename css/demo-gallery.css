@@ -59,6 +59,13 @@
   pointer-events: none;
 }
 
+.demo-tile { position: relative; min-width: 0; }
+.demo-audio { position: absolute; top: 12px; right: 12px; z-index: 2; }
+.demo-audio .demo-audio-playing { display: none; }
+.demo-audio[aria-pressed="true"] { background: #2774ae; }
+.demo-audio[aria-pressed="true"] .demo-audio-muted { display: none; }
+.demo-audio[aria-pressed="true"] .demo-audio-playing { display: block; }
+
 .demo-expand, .demo-icon-button {
   display: grid;
   place-items: center;
@@ -168,6 +175,7 @@
   #robotics .demo-grid--featured { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .demo-group + .demo-group { margin-top: 36px; }
   .demo-expand { width: 30px; height: 30px; padding: 7px; right: 8px; bottom: 8px; }
+  .demo-audio { top: 8px; right: 8px; }
   .demo-motion { right: 16px; bottom: 16px; }
   .demo-viewer { width: calc(100vw - 24px); }
   .demo-viewer-frame { padding: 48px 0 52px; }

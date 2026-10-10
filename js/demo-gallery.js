@@ -4,6 +4,7 @@
 
   const clips = [...gallery.querySelectorAll('[data-demo-clip]')];
   const videos = clips.map(clip => clip.querySelector('video'));
+  const audioButtons = clips.map(clip => clip.closest('.demo-tile')?.querySelector('[data-audio-toggle]'));
   const dialog = document.querySelector('.demo-viewer');
   const player = dialog.querySelector('video');
   const motion = document.querySelector('.demo-motion');
@@ -25,6 +26,31 @@
   function shouldPlay(video) {
     return !paused && !document.hidden && !dialog.open && visible.has(video);
   }
+
+  function syncAudioButton(index) {
+    const button = audioButtons[index];
+    if (!button) return;
+    const enabled = !videos[index].muted;
+    const action = enabled ? 'Mute sound' : 'Turn on sound';
+    button.setAttribute('aria-pressed', String(enabled));
+    button.setAttribute('aria-label', `${action}: ${clips[index].dataset.label}`);
+    button.title = action;
+  }
+
+  audioButtons.forEach((button, index) => {
+    if (!button) return;
+    button.addEventListener('click', () => {
+      const video = videos[index];
+      load(video);
+      const enabled = video.muted;
+      videos.forEach((other, otherIndex) => {
+        other.muted = otherIndex === index ? !enabled : true;
+        syncAudioButton(otherIndex);
+      });
+      if (enabled) paused = false;
+      syncPlayback();
+    });
+  });
 
   function syncPlayback() {
     videos.forEach(video => {
@@ -85,7 +111,7 @@
     player.height = videos[selected].height;
     player.setAttribute('aria-label', clip.dataset.label);
     player.src = clip.href;
-    player.muted = true;
+    player.muted = videos[selected].muted;
     dialog.querySelector('.demo-original-link').href = clip.href;
     player.load();
     if (!dialog.open) dialog.showModal();
