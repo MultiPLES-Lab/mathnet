@@ -291,6 +291,10 @@
     "backup_sha256": "893331c2deb5da4d2ca8716b0b8fd308ea81886f2b57cc07d362b9638497c6a5",
     "output_sha256": "356899e78d553eb14fb6712b53cfc23ff2764c852ddec2d2b5f155d0592242b4"
   },
+  "jiang2026dressagent.png": {
+    "backup_sha256": "1d5fc0220baa8bf0ef3bc8d5a1bfa925d4fb5b6ea8476f0e9f734f3e9dde6efc",
+    "output_sha256": "93600bbb8d6c6e348b5bec9454a6e1951203f82aed6860832ba31498b0d45013"
+  },
   "jiang2026memoryvam.jpg": {
     "backup_sha256": "19d5fc0e5fba30c484bcc644a60257fef037d9d6a891dffc191ee403690e23e1",
     "output_sha256": "5e8ce867cd97c5924c00e272ff5fed767d52ee8671769aaa37d2374692cb2c6f"
@@ -566,6 +570,10 @@
   "su2023unifiedMPM.jpg": {
     "backup_sha256": "91ac77a584eaaed1892841096557667144d30a05b4792640496b90d99a74877b",
     "output_sha256": "0a0df7bbaef2e2573d5a9b9cf80268feca240d73292c4bf3d41b228dc10ea2a9"
+  },
+  "sun2026foresee.png": {
+    "backup_sha256": "16377cb96ec891516dd0db2bced59bd36fd6bed12f51ce74528c0aaf9dff7e53",
+    "output_sha256": "cfb6bdf9eaa75873da1bca572d7568a12c1f4d0db8d934bef140d5cc143f6cae"
   },
   "sun2026jarvis.png": {
     "backup_sha256": "b91aa48022490f0b7519b2f9d42ba725b12a741b8c4adcb6b98881ed5da41446",
