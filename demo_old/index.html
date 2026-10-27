@@ -1,0 +1,881 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="description" content="Multi-Physics Lagrangian-Eulerian Simulation Lab">
+<meta name="author" content="MultiPLES-Lab">
+
+
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+<link rel="stylesheet" href=/aivc/css/multiples.css type="text/css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+
+<link rel="stylesheet" href="/aivc/css/demo-gallery.css">
+
+
+
+ <link rel="icon" href="/aivc/img/website%20icon.png" />
+ 
+<title> Demo |  UCLA Artificial Intelligence &amp; Visual Computing Lab</title>
+<script>
+        document.addEventListener('DOMContentLoaded', function () {
+            if (!window.bootstrap || !window.bootstrap.Popover) return;
+
+            var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'));
+            popoverTriggerList.forEach(function (popoverTriggerEl) {
+                new bootstrap.Popover(popoverTriggerEl);
+            });
+        });
+</script>
+</head>
+
+<body class="demo-page">
+
+
+
+
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/aivc">
+        <img src="/aivc/img/lab%20short%20blue.png", height=40px>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          
+          
+            
+            
+            
+            
+          <li class="nav-item">
+            <a class="nav-link  text-decoration-none" href="/aivc/">Home</a>
+          </li>
+          
+            
+            
+            
+            
+          <li class="nav-item">
+            <a class="nav-link  text-decoration-none" href="/aivc/people">People</a>
+          </li>
+          
+            
+            
+            
+            
+          <li class="nav-item">
+            <a class="nav-link  text-decoration-none" href="/aivc/publication">Publications</a>
+          </li>
+          
+        </ul>
+        <form class="d-flex">
+          
+          
+            
+        </form>
+      </div>
+    </div>
+</nav>
+
+<main class="demo-main" id="main">
+  
+<h1 class="visually-hidden">Demo</h1>
+<div class="demo-gallery" data-demo-gallery>
+  
+  
+  <section class="demo-group" aria-label="Robot manipulation" id="robotics">
+    
+    <div class="demo-grid demo-grid--2 demo-grid--featured">
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/tianji_bagging.mp4" data-demo-clip data-label="Humanoid robot packing groceries" aria-label="Open video: Humanoid robot packing groceries">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/tianji_bagging.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/tianji_bagging.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/wuji2_guitar.mp4" data-demo-clip data-label="Dexterous robot hand playing a guitar" aria-label="Open video: Dexterous robot hand playing a guitar">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/wuji2_guitar.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/wuji2_guitar.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/fold_sleeveless.mp4?v=ee0f932009a5a67586a340d984433fa0fff67f6b0546766c6100b9d27baf2bf3" data-demo-clip data-label="Robot folding a sleeveless garment" aria-label="Open video: Robot folding a sleeveless garment">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/fold_sleeveless.jpg?v=ee0f932009a5a67586a340d984433fa0fff67f6b0546766c6100b9d27baf2bf3" data-src="https://cffjiang.github.io/aivc-demos/videos/fold_sleeveless.mp4?v=ee0f932009a5a67586a340d984433fa0fff67f6b0546766c6100b9d27baf2bf3" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/fold_towel.mp4" data-demo-clip data-label="Robot folding a towel" aria-label="Open video: Robot folding a towel">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/fold_towel.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/fold_towel.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+    </div>
+    
+    
+    
+    <div class="demo-grid demo-grid--2 demo-grid--count-4">
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/cereal.mp4" data-demo-clip data-label="Humanoid robot pouring cereal" aria-label="Open video: Humanoid robot pouring cereal">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/cereal.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/cereal.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/nut.mp4" data-demo-clip data-label="Dexterous manipulation of a nut" aria-label="Open video: Dexterous manipulation of a nut">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/nut.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/nut.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/bagging_trimmed.mp4" data-demo-clip data-label="Robot arm packing a flexible bag" aria-label="Open video: Robot arm packing a flexible bag">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/bagging_trimmed.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/bagging_trimmed.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/franka_wipe.mp4" data-demo-clip data-label="Robot hand wiping a surface" aria-label="Open video: Robot hand wiping a surface">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/franka_wipe.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/franka_wipe.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+    </div>
+    
+  </section>
+  
+  <section class="demo-group demo-group--contact" aria-label="Tactile manipulation and contact-rich simulation" id="contact">
+    
+    
+    
+    <div class="demo-grid demo-grid--2 demo-grid--count-2">
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1080 / 1200;" href="https://cffjiang.github.io/aivc-demos/originals/tactile-puzzle-tubes-sim.mp4" data-demo-clip data-label="Tactile simulation of puzzle insertion and test-tube handling" aria-label="Open video: Tactile simulation of puzzle insertion and test-tube handling">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/tactile-puzzle-tubes-sim.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/tactile-puzzle-tubes-sim.mp4" aria-hidden="true" tabindex="-1" width="1080" height="1200"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1920 / 1080;" href="https://cffjiang.github.io/aivc-demos/originals/embeddedipc-1.mp4" data-demo-clip data-label="Robot placing a plate in a dish rack: real experiment and simulation" aria-label="Open video: Robot placing a plate in a dish rack: real experiment and simulation">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/embeddedipc-1.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/embeddedipc-1.mp4" aria-hidden="true" tabindex="-1" width="1920" height="1080"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+    </div>
+    
+  </section>
+  
+  <section class="demo-group demo-group--comparison" aria-label="Robotic cutting and simulation-to-reality comparison" id="cutting">
+    
+    <div class="demo-grid demo-grid--1 demo-grid--featured">
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1884 / 720;" href="https://cffjiang.github.io/aivc-demos/originals/02-banana-sim-real-30fps.mp4" data-demo-clip data-label="Banana cutting: simulation on the left, real robot on the right" aria-label="Open video: Banana cutting: simulation on the left, real robot on the right">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/02-banana-sim-real-30fps.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/02-banana-sim-real-30fps.mp4" aria-hidden="true" tabindex="-1" width="1884" height="720"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+    </div>
+    
+    
+    
+    <div class="demo-grid demo-grid--3 demo-grid--count-3">
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1280 / 960;" href="https://cffjiang.github.io/aivc-demos/originals/03-sequential-slicing-mesh-30fps.mp4" data-demo-clip data-label="Robot sequentially slicing a deformable object" aria-label="Open video: Robot sequentially slicing a deformable object">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/03-sequential-slicing-mesh-30fps.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/03-sequential-slicing-mesh-30fps.mp4" aria-hidden="true" tabindex="-1" width="1280" height="960"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1280 / 960;" href="https://cffjiang.github.io/aivc-demos/originals/05-deep-cuts-mesh-30fps.mp4" data-demo-clip data-label="Deep cuts into a deformable object" aria-label="Open video: Deep cuts into a deformable object">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/05-deep-cuts-mesh-30fps.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/05-deep-cuts-mesh-30fps.mp4" aria-hidden="true" tabindex="-1" width="1280" height="960"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1280 / 720;" href="https://cffjiang.github.io/aivc-demos/originals/09-two-way-coupling-normal-speed-30fps.mp4" data-demo-clip data-label="Two-way coupling between knives and a deformable object" aria-label="Open video: Two-way coupling between knives and a deformable object">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/09-two-way-coupling-normal-speed-30fps.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/09-two-way-coupling-normal-speed-30fps.mp4" aria-hidden="true" tabindex="-1" width="1280" height="720"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+    </div>
+    
+  </section>
+  
+  <section class="demo-group demo-group--shuffle" aria-label="Dexterous manipulation and cloth interaction" id="shuffle">
+    
+    
+    
+    <div class="demo-grid demo-grid--2 demo-grid--count-2">
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1280 / 680;" href="https://cffjiang.github.io/aivc-demos/originals/shuffle.mp4" data-demo-clip data-label="Robot hands shuffling cards" aria-label="Open video: Robot hands shuffling cards">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/shuffle.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/shuffle.mp4" aria-hidden="true" tabindex="-1" width="1280" height="680"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/pull_cloth.mp4?v=ec91f8cb088170d4942e0037a191bfa2882595ca8b938b2828b08b91681ab86e" data-demo-clip data-label="Pulling cloth" aria-label="Open video: Pulling cloth">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/pull_cloth.jpg?v=ec91f8cb088170d4942e0037a191bfa2882595ca8b938b2828b08b91681ab86e" data-src="https://cffjiang.github.io/aivc-demos/videos/pull_cloth.mp4?v=ec91f8cb088170d4942e0037a191bfa2882595ca8b938b2828b08b91681ab86e" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+    </div>
+    
+  </section>
+  
+  <section class="demo-group" aria-label="Cloth and garments" id="textiles">
+    
+    
+    
+    <div class="demo-grid demo-grid--4 demo-grid--count-10">
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/fold_cloth.mp4" data-demo-clip data-label="Folding patterned cloth" aria-label="Open video: Folding patterned cloth">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/fold_cloth.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/fold_cloth.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/franka_cloth.mp4" data-demo-clip data-label="Robot arm manipulating cloth" aria-label="Open video: Robot arm manipulating cloth">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/franka_cloth.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/franka_cloth.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/hanging_cloth.mp4" data-demo-clip data-label="Hanging cloth" aria-label="Open video: Hanging cloth">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/hanging_cloth.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/hanging_cloth.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/lift_cloth.mp4" data-demo-clip data-label="Lifting cloth" aria-label="Open video: Lifting cloth">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/lift_cloth.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/lift_cloth.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/twist_cloth.mp4" data-demo-clip data-label="Twisting cloth" aria-label="Open video: Twisting cloth">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/twist_cloth.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/twist_cloth.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/drop_cloth.mp4" data-demo-clip data-label="Dropping cloth" aria-label="Open video: Dropping cloth">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/drop_cloth.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/drop_cloth.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/drop_sleeveless.mp4" data-demo-clip data-label="Dropping a sleeveless garment" aria-label="Open video: Dropping a sleeveless garment">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/drop_sleeveless.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/drop_sleeveless.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/play_cloth.mp4" data-demo-clip data-label="Patterned cloth deformation" aria-label="Open video: Patterned cloth deformation">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/play_cloth.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/play_cloth.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/many_cloth.mp4" data-demo-clip data-label="Multiple layers of colored cloth" aria-label="Open video: Multiple layers of colored cloth">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/many_cloth.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/many_cloth.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/two_pillows.mp4" data-demo-clip data-label="Contact between two pillows" aria-label="Open video: Contact between two pillows">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/two_pillows.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/two_pillows.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+    </div>
+    
+  </section>
+  
+  <section class="demo-group" aria-label="Granular materials and snow" id="particles">
+    
+    <div class="demo-grid demo-grid--2 demo-grid--featured">
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/go2_snow.mp4" data-demo-clip data-label="Quadruped robot walking through snow" aria-label="Open video: Quadruped robot walking through snow">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/go2_snow.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/go2_snow.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/snowball_hand.mp4" data-demo-clip data-label="Robot hand crushing a snowball" aria-label="Open video: Robot hand crushing a snowball">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/snowball_hand.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/snowball_hand.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+    </div>
+    
+    
+    
+    <div class="demo-grid demo-grid--4 demo-grid--count-8">
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/snow_reveal.mp4" data-demo-clip data-label="Robot hand brushing away particles" aria-label="Open video: Robot hand brushing away particles">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/snow_reveal.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/snow_reveal.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/coffee_bean.mp4" data-demo-clip data-label="Coffee beans settling" aria-label="Open video: Coffee beans settling">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/coffee_bean.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/coffee_bean.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/franka_coffee_bean.mp4" data-demo-clip data-label="Robot arm interacting with coffee beans" aria-label="Open video: Robot arm interacting with coffee beans">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/franka_coffee_bean.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/franka_coffee_bean.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/wuji_coffee_bean.mp4" data-demo-clip data-label="Dexterous hand interacting with coffee beans" aria-label="Open video: Dexterous hand interacting with coffee beans">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/wuji_coffee_bean.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/wuji_coffee_bean.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/sticky_beans.mp4" data-demo-clip data-label="Cohesive coffee beans" aria-label="Open video: Cohesive coffee beans">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/sticky_beans.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/sticky_beans.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/drop_multisphere_columns.mp4" data-demo-clip data-label="Dropping multisphere particles" aria-label="Open video: Dropping multisphere particles">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/drop_multisphere_columns.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/drop_multisphere_columns.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/drop_rigid.mp4" data-demo-clip data-label="Dropping rigid particles" aria-label="Open video: Dropping rigid particles">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/drop_rigid.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/drop_rigid.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/drop_1m_rigid.mp4" data-demo-clip data-label="A million rigid particles settling" aria-label="Open video: A million rigid particles settling">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/drop_1m_rigid.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/drop_1m_rigid.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+    </div>
+    
+  </section>
+  
+  <section class="demo-group" aria-label="Ropes and mechanisms" id="ropes">
+    
+    
+    
+    <div class="demo-grid demo-grid--2 demo-grid--count-4">
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/rope_hang.mp4" data-demo-clip data-label="Rope and pulley lifting mechanism" aria-label="Open video: Rope and pulley lifting mechanism">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/rope_hang.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/rope_hang.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+
+<a class="demo-clip" style="--demo-ratio: 1632 / 1440;" href="https://cffjiang.github.io/aivc-demos/originals/drop_rope.mp4" data-demo-clip data-label="Flexible rope dropping and coiling" aria-label="Open video: Flexible rope dropping and coiling">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/drop_rope.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/drop_rope.mp4" aria-hidden="true" tabindex="-1" width="1632" height="1440"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+
+      
+        
+
+
+
+
+<div class="demo-tile">
+<a class="demo-clip" style="--demo-ratio: 1280 / 960;" href="https://cffjiang.github.io/aivc-demos/originals/combined_harp_audio.mp4" data-demo-clip data-label="Robot hands playing a harp with audio" aria-label="Open video: Robot hands playing a harp with audio">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/combined_harp_audio.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/combined_harp_audio.mp4" aria-hidden="true" tabindex="-1" width="1280" height="960"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+  <button class="demo-audio demo-icon-button" type="button" data-audio-toggle aria-label="Turn on sound: Robot hands playing a harp with audio" aria-pressed="false" title="Turn on sound">
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M11 5 6 9H3v6h3l5 4Z"/>
+      <path class="demo-audio-muted" d="m16 9 6 6m0-6-6 6"/>
+      <path class="demo-audio-playing" d="M15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14"/>
+    </svg>
+  </button>
+</div>
+
+
+      
+        
+
+
+
+
+<div class="demo-tile">
+<a class="demo-clip" style="--demo-ratio: 1280 / 960;" href="https://cffjiang.github.io/aivc-demos/originals/two_tigers.mp4" data-demo-clip data-label="Robot hands playing Two Tigers on a harp" aria-label="Open video: Robot hands playing Two Tigers on a harp">
+  <video muted loop playsinline preload="none" poster="https://cffjiang.github.io/aivc-demos/posters/two_tigers.jpg" data-src="https://cffjiang.github.io/aivc-demos/videos/two_tigers.mp4" aria-hidden="true" tabindex="-1" width="1280" height="960"></video>
+  <span class="demo-expand" aria-hidden="true">
+    <svg viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>
+  </span>
+</a>
+
+  <button class="demo-audio demo-icon-button" type="button" data-audio-toggle aria-label="Turn on sound: Robot hands playing Two Tigers on a harp" aria-pressed="false" title="Turn on sound">
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M11 5 6 9H3v6h3l5 4Z"/>
+      <path class="demo-audio-muted" d="m16 9 6 6m0-6-6 6"/>
+      <path class="demo-audio-playing" d="M15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14"/>
+    </svg>
+  </button>
+</div>
+
+
+      
+    </div>
+    
+  </section>
+  
+</div>
+
+<button class="demo-motion demo-icon-button" type="button" aria-label="Pause all videos" aria-pressed="false" hidden>
+  <svg class="demo-pause-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5v14M15 5v14"/></svg>
+  <svg class="demo-play-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 5 10 7-10 7Z"/></svg>
+</button>
+
+<dialog class="demo-viewer" aria-label="Demo video viewer">
+  <div class="demo-viewer-frame">
+    <video class="demo-viewer-video" controls playsinline loop muted preload="none"></video>
+    <button class="demo-close demo-icon-button" type="button" aria-label="Close video" autofocus>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg>
+    </button>
+    <button class="demo-previous demo-icon-button" type="button" aria-label="Previous video">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 5-7 7 7 7"/></svg>
+    </button>
+    <button class="demo-next demo-icon-button" type="button" aria-label="Next video">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m10 5 7 7-7 7"/></svg>
+    </button>
+    <p class="demo-error" role="status" hidden>Unable to load this video. <a class="demo-original-link">Open the original video</a></p>
+  </div>
+</dialog>
+<script src="/aivc/js/demo-gallery.js" defer></script>
+
+</main>
+<script src="//code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/268c7f320e.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+<script type="text/javascript" src="/aivc/js/multiples.js?v=1793126878"></script> 
+
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+
+
+</body>
+<footer>
+
+<div style="width:100%; background:#28242c;"> 
+  <div class="container footer-container" style="color:#fff; width: 80%">
+    <br class="footer-spacer">
+  <div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer-address">
+      <h3> Address</h3>
+      
+        
+          <p>603 Charles E Young Dr E</p>
+        
+          <p>Slichter Hall 3860</p>
+        
+          <p>Los Angeles, CA 90095</p>
+        
+      
+    </div>
+
+    
+  </div>
+  </div>
+
+  <div class="footer-container footer-copyright">
+      <small>
+        <p>Copyright &copy; 2026 AIVC-Lab. All rights reserved.</p> 
+        <br class="footer-spacer">
+    </small>
+  </div>
+</div>
+
+</footer>
+</html>
+
