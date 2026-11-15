@@ -559,6 +559,10 @@
     "backup_sha256": "e122b0a27685dfb90ca3d107130163766d50c247fe41180aad5b07b7a4fa054a",
     "output_sha256": "3fe736486b7d4cf5a0ef235ff07590df02202133db86c1c798b4723b860ebe8a"
   },
+  "shu2026same-lamp.jpg": {
+    "backup_sha256": "dc0b07a5daee2aa1df5045584b2bd620cf6a8d63a5225f7146a9ff6bc9003098",
+    "output_sha256": "7688ecc324ee3e8edc3a90c6e2b662ae7c4599cff1d3d56764fe307dfec188af"
+  },
   "shu2026same.jpg": {
     "backup_sha256": "039b3023df5bd620e1176fa0a20b642e059f5b8165e83cff6b6811a57037da48",
     "output_sha256": "dc0b07a5daee2aa1df5045584b2bd620cf6a8d63a5225f7146a9ff6bc9003098"
