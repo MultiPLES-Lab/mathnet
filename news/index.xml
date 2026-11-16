@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.math.ucla.edu/aivc/news/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>GRAIL CoRL 2026 Best Paper Award Finalist</title>
+				<link>https://www.math.ucla.edu/aivc/news/grail_finalist/</link>
+				<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/grail_finalist/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2026-11-03]&lt;/strong&gt; Our paper &lt;a href=&#34;https://research.nvidia.com/labs/dair/grail/&#34;&gt;&lt;em&gt;GRAIL&lt;/em&gt;&lt;/a&gt; was selected as one of six Best Paper Award finalists at CoRL 2026.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Pacific Graphics 2026 Best Student Paper Award</title>
+				<link>https://www.math.ucla.edu/aivc/news/pacific_graphics_best_student_paper/</link>
+				<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/news/pacific_graphics_best_student_paper/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;[2026-10-08]&lt;/strong&gt; Our paper &lt;a href=&#34;https://arxiv.org/abs/2609.02675&#34;&gt;&lt;em&gt;Projective Affine Body Dynamics for Multibody Systems&lt;/em&gt;&lt;/a&gt; wins the &lt;a href=&#34;https://pacificgraphics2026.github.io/&#34;&gt;Pacific Graphics 2026 Best Student Paper Award&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>SPARK CVPR Compute Transparency Champion</title>
 				<link>https://www.math.ucla.edu/aivc/news/spark_champion/</link>
