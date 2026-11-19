@@ -595,6 +595,10 @@
     "backup_sha256": "225f859104a3ec7ec6a0c85b00a6016d1fbba3a4c9d45e24a6533e2eacf11039",
     "output_sha256": "a74a0d68e448e571aa1e4c9d2fbceee1c0acbacba361874394f9f836a8073901"
   },
+  "tao2026gta-shopfront-closeup.jpg": {
+    "backup_sha256": "325630eb57d9d506c71b09127dbc4f19293e6dcc76f6880adfc5b3c75808081b",
+    "output_sha256": "31379e76d1f3a7dbc50c92ae4bf16c5d4018c21f5d14318549eb2ac69ccb6942"
+  },
   "trottet2021transition.jpg": {
     "backup_sha256": "25f43bef67637cc248c3afd5171cc3163f8552fc216f24d9a097d8166a6b7652",
     "output_sha256": "fafbb14c256259dc1b4c1d5c3ceadc00bc52e565d235e41245ce39c565d36073"
