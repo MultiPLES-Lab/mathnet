@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 25 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://www.math.ucla.edu/aivc/people/current/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Junli Cao</title>
+				<link>https://www.math.ucla.edu/aivc/people/current/junli/</link>
+				<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/current/junli/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mikkel Metzsch Juel</title>
+				<link>https://www.math.ucla.edu/aivc/people/current/mikkel/</link>
+				<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>https://www.math.ucla.edu/aivc/people/current/mikkel/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Yanjia Huang</title>
 				<link>https://www.math.ucla.edu/aivc/people/current/yanjia/</link>
