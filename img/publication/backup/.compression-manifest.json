@@ -443,6 +443,10 @@
     "backup_sha256": "481968d5ea524528c836abb2bb18342e72917bc4190971af6cff6fd16a208163",
     "output_sha256": "bd099a18f58330a042afdf7351c95e2bb6401d4c6f30c7af7309375912a79e15"
   },
+  "lin2026voroplex-3d-cutaway.jpg": {
+    "backup_sha256": "28ec48fa8de9f8f4019d6ab591452929ab8e94801527c75ddd93d60b412b0c7f",
+    "output_sha256": "5698528c9d2844eb878686b28a4b847e5174498374b7458d67c87fe5e7513266"
+  },
   "liu2019mirror.jpg": {
     "backup_sha256": "62e0f3e09f26bacff806c7fd299423dfe9e8a324421c842db7bca4b74321b024",
     "output_sha256": "d59b1ec8c19ad2fe7a5bd43684d28fd759a6beadb3aa1d4b3ee1807a1b31b0af"
